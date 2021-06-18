@@ -1,0 +1,46 @@
+.navbar {
+    background-color: #2C0E37;
+}
+
+.dropdownButton {
+    background-color: #59656F;
+    color: white;
+}
+.dropdownIcon {
+    color: white;
+}
+.navbar-brand {
+    float: left;
+    background-color: #59656F;
+    padding: 1vw;
+    margin-right: 0px;
+    border-radius: .25rem;
+}
+
+.navbar-name {
+    color: white;
+    margin-bottom: 0px;
+}
+
+.nav-item {
+    margin: 5px;
+}
+
+a.navlink {
+    font-size: 20px;
+    color: #F8F7FF;
+    background-color: #59656F;
+}
+.dropdown-item{
+    background-color: #59656F;
+    margin-left: 5px;
+    border-radius: 0.25rem;
+}
+
+.dropdown-item:hover{
+    background-color: #59656F;
+}
+
+.dropdown-item:focus {
+    background-color: transparent;
+}
