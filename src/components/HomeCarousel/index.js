@@ -6,16 +6,29 @@ import CarouselImage2 from '../../assets/images/Mike-On-Stage-1.jpg';
 
 function HomeCarousel() {
     return (
-        <div>
-            <Carousel className="homeCarousel" interval={5000} indicators={false}>
-                <Carousel.Item >
-                    <img src={CarouselImage1} className="carouselImage" alt="Mike Headshot"></img>
-                </Carousel.Item>
-                <Carousel.Item >
-                    <img src={CarouselImage2} className="carouselImage" alt="Mike on stage."></img>
-                </Carousel.Item>
-            </Carousel>
-        </div>
+        <Carousel className="mb-2">
+            <Carousel.Item interval={5000}>
+                <img
+                    className="d-block w-75 carouselImage"
+                    src={CarouselImage2}
+                    alt="First slide"
+                />
+            </Carousel.Item>
+            <Carousel.Item interval={5000}>
+                <img
+                    className="d-block w-75 carouselImage"
+                    src={CarouselImage2}
+                    alt="Second slide"
+                />
+            </Carousel.Item>
+            <Carousel.Item interval={5000}>
+                <img
+                    className="d-block w-75 carouselImage"
+                    src={CarouselImage2}
+                    alt="Third slide"
+                />
+            </Carousel.Item>
+        </Carousel>
     )
 }
 
