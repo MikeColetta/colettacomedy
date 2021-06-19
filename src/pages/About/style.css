@@ -1,0 +1,12 @@
+.aboutMeImage{
+    height: 100%;
+    width: 100%;
+}
+
+.aboutCardHeader {
+    text-align: center;
+}
+
+.aboutCard {
+    background-color: #59656F;
+}

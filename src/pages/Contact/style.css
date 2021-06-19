@@ -1,11 +1,16 @@
 .contactSubheading {
     text-align: center;
+    color: #2C0E37;
 }
 
-.contactCard {
+.homeCard {
     display: flex;
     justify-content: space-evenly;
-    background-color: #FFFBFC;
+    background-color: #59656F;
+}
+
+.contactCardHeader {
+    text-align: center;
 }
 .iconRow {
     justify-content: space-evenly;
@@ -14,35 +19,14 @@
 .iconCard {
     justify-content: center;
     text-align: center;
-    background-color: #156064;;
+    background-color: #2C0E37;;
     max-width: 125px;
     max-height: 150px;
     padding: 0px;
 }
 
-.fa-linkedin {
-    background-color:#156064;;
-    color: white;
-    width: 100px;
-    height: 100px;
-}
-
-.githubContactLink {
-    color:white;
-    background-color: #156064;;
-    width: 100px;
-    height: 100px;
-}
-
 .fa-envelope-o {
-    background-color:#156064;;
-    color: white;
-    width: 100px;
-    height: 100px;
-}
-
-.fa-phone {
-    background-color:#156064;;
+    background-color:#2C0E37;;
     color: white;
     width: 100px;
     height: 100px;

@@ -22,6 +22,9 @@ function Navbar() {
                 <Link to="/media" className="navlink">Media</Link>
             </li>
             <li className="dropdown-item">
+                <Link to="/podcasts" className="navlink">Podcasts</Link>
+            </li>
+            <li className="dropdown-item">
                 <Link to="/contact" className="navlink">Contact</Link>
             </li>
         </ul>
