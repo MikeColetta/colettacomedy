@@ -21,3 +21,7 @@ h2 {
 .videoCardHeader {
     text-align: center;
 }
+
+.galleryImage {
+    width: 20vw;
+}

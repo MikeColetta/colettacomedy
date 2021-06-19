@@ -1,7 +1,7 @@
 import React from 'react';
 import Carousel from 'react-bootstrap/Carousel';
 import './style.css';
-import CarouselImage1 from '../../assets/images/Headshot.jpg';
+// import CarouselImage1 from '../../assets/images/Headshot.jpg';
 import CarouselImage2 from '../../assets/images/Mike-On-Stage-1.jpg';
 
 function HomeCarousel() {
