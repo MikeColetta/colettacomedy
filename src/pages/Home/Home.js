@@ -20,21 +20,21 @@ function Home() {
                                         <td>7:00pm</td>
                                         <td>Host</td>
                                         <td>Four Horsemen Brewery - Kent, WA</td>
-                                        <td className="moreInfo"><button type="button" class="btn btn-dark"><a href="https://fourhorsemen.beer/?">More Info</a></button></td>
+                                        <td className="moreInfo"><Button className='moreInfoButton'><a href="https://fourhorsemen.beer/?" className="moreInfo" >More Info</a></Button></td>
                                     </tr>
                                     <tr>
                                         <td>SUN - Jun 27, 2021</td>
                                         <td>7:00pm</td>
                                         <td>Host</td>
                                         <td>Four Horsemen Brewery - Kent, WA</td>
-                                        <td className="moreInfo"><button type="button" class="btn btn-dark"><a href="https://fourhorsemen.beer/?">More Info</a></button></td>
+                                        <td className="moreInfo"><Button className='moreInfoButton'><a href="https://fourhorsemen.beer/?" className="moreInfo" >More Info</a></Button></td>
                                     </tr>
                                     <tr>
                                         <td>SUN - Jun 27, 2021</td>
                                         <td>7:00pm</td>
                                         <td>Host</td>
                                         <td>Four Horsemen Brewery - Kent, WA</td>
-                                        <td className="moreInfo"><button type="button" class="btn btn-dark"><a href="https://fourhorsemen.beer/?">More Info</a></button></td>
+                                        <td className="moreInfo"><Button className='moreInfoButton'><a href="https://fourhorsemen.beer/?" className="moreInfo">More Info</a></Button></td>
                                     </tr>
                                 </tbody>
                             </Table>

@@ -33,4 +33,11 @@
 
 .moreInfo {
     text-align: center;
+    color: #F8F7FF;
+}
+
+.moreInfoButton {
+    background-color: #2C0E37;
+    border: none;
+    color: #F8F7FF;
 }
