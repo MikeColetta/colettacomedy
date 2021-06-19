@@ -2,6 +2,13 @@
     text-align: center;
 }
 
+.homeTitleCard {
+    background-color: #59656F;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 2vh;
+}
+
 .about-me-text {
     padding: 5px;
 }

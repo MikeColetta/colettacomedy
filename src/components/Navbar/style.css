@@ -1,9 +1,21 @@
-.navbar {
-    background-color: #2C0E37;
+.header {
+    background-color: #59656F;
+    border-radius: 0.25rem;
+    border-color: transparent;
+    margin: auto;
+    margin-top: 2vh;
+}
+
+.headerRow{
+    justify-content: center;
+}
+
+.customNavbar {
+    background-color: #59656F;
 }
 
 .dropdownButton {
-    background-color: #59656F;
+    background-color: #c4c4c4;
     color: white;
 }
 .dropdownIcon {

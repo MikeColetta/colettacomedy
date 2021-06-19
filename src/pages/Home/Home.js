@@ -1,11 +1,15 @@
 import React from 'react';
 import "./style.css";
-import { Table, Button, Row, Col } from 'react-bootstrap/';
+import { Table, Button, Row, Col, Card } from 'react-bootstrap/';
 import { TwitterTimelineEmbed } from 'react-twitter-embed';
+import HomeCarousel from '../../components/HomeCarousel';
 
 function Home() {
     return (
         <div className="container my-2" id="about-me">
+            <Row>
+                <HomeCarousel />
+            </Row>
             <Row>
                 <Col xs={9}>
                     <div className="card homeCard">

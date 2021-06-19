@@ -1,6 +1,6 @@
 import './App.css';
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-import Navbar from "./components/Navbar"
+import CustomNavbar from "./components/Navbar"
 import Footer from "./components/Footer"
 import Home from "./pages/Home/Home"
 import About from './pages/About/About';
@@ -12,7 +12,7 @@ import Contact from './pages/Contact/Contact';
 function App() {
   return (
     <Router basename={process.env.PUBLIC_URL}>
-      <Navbar />
+      <CustomNavbar />
       <Switch>
         <Route exact path= "/" component={Home} />
         <Route exact path="/about" component={About} />
