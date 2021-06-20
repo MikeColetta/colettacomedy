@@ -1,8 +1,9 @@
 import React from 'react';
 import Carousel from 'react-bootstrap/Carousel';
 import './style.css';
-// import CarouselImage1 from '../../assets/images/Headshot.jpg';
+import CarouselImage1 from '../../assets/images/Carousel1.jpg';
 import CarouselImage2 from '../../assets/images/Mike-On-Stage-1.jpg';
+import CarouselImage3 from '../../assets/images/GalleryImage2.jpg'
 
 function HomeCarousel() {
     return (
@@ -10,7 +11,7 @@ function HomeCarousel() {
             <Carousel.Item interval={5000}>
                 <img
                     className="d-block w-75 carouselImage"
-                    src={CarouselImage2}
+                    src={CarouselImage3}
                     alt="First slide"
                 />
             </Carousel.Item>
@@ -24,7 +25,7 @@ function HomeCarousel() {
             <Carousel.Item interval={5000}>
                 <img
                     className="d-block w-75 carouselImage"
-                    src={CarouselImage2}
+                    src={CarouselImage1}
                     alt="Third slide"
                 />
             </Carousel.Item>
