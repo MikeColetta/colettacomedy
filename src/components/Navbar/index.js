@@ -7,16 +7,17 @@ function CustomNavbar() {
     return (
         <Container>
             <Card className="header">
-                <Row className="headerRow">
-                    <Link to="/">
-                        <h1 className="headerName">Home of Comedian Mike Coletta</h1>
-                    </Link>
+                <Row className="mt-2 headerRow">
+                    <Button className="navLinkButton">
+                        <Link to="/">
+                            <h1 className="headerName">Home of Comedian Mike Coletta</h1>
+                        </Link>
+                    </Button>
                 </Row>
                 <Navbar collapseOnSelect expand="lg" className="customNavbar">
                     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                     <Navbar.Collapse id="responsive-navbar-nav">
                         <Nav className="m-auto">
-
                             <Nav.Link href="#features">
                                 <Button className='navLinkButton'>
                                     <Link to="/about" className="navlink">About</Link>
