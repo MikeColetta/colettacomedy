@@ -31,19 +31,18 @@ function Podcasts() {
     return (
         <Container>
             <Row>
-                <Col className="col-6">
+                <Col className="col-6 mb-2">
                     <HugLifeCard
                         loading={loading}
                         huglifeEp={huglifeEp}
                     />
                 </Col>
-                <Col className="col-6">
+                <Col className="col-6 mb-2">
                     <CodexCard
                         loading={loading}
                         codexEp={codexEp}
                     />
-                ))
-                    
+                    ))
                 </Col>
             </Row>
         </Container >
