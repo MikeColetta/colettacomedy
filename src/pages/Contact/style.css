@@ -3,6 +3,13 @@
     color: #2C0E37;
 }
 
+.contactCard {
+    color: white;
+    background-color: #59656F;
+    padding-bottom: 1vh;
+
+}
+
 .homeCard {
     display: flex;
     justify-content: space-evenly;

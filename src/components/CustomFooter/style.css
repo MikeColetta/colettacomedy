@@ -1,5 +1,11 @@
+.customFooter {
+    background-color: #59656F;
+    text-align: center;
+    margin-bottom: 2vh;
+}
+
 .copyright {
-    color: gray;
+    color: white;
     margin: 0px
 }
 

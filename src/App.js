@@ -1,7 +1,7 @@
 import './App.css';
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import CustomNavbar from "./components/Navbar"
-import Footer from "./components/Footer"
+import CustomFooter from "./components/CustomFooter"
 import Home from "./pages/Home/Home"
 import About from './pages/About/About';
 import Media from './pages/Media/Media';
@@ -20,7 +20,7 @@ function App() {
         <Route exact path="/podcasts" component={Podcasts} />
         <Route exact path="/contact" component={Contact} />
       </Switch>
-      <Footer />
+      <CustomFooter />
     </Router>
   );
 }
