@@ -6,7 +6,7 @@ import Home from "./pages/Home/Home"
 import About from './pages/About/About';
 import Media from './pages/Media/Media';
 import Contact from './pages/Contact/Contact';
-
+import Podcasts from './pages/Podcasts/Podcasts';
 
 
 function App() {
@@ -17,6 +17,7 @@ function App() {
         <Route exact path= "/" component={Home} />
         <Route exact path="/about" component={About} />
         <Route exact path="/media" component={Media} />
+        <Route exact path="/podcasts" component={Podcasts} />
         <Route exact path="/contact" component={Contact} />
       </Switch>
       <Footer />
