@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "date": "July 22, 2022",
+        "time": "8:00pm",
+        "venue": "Club Comedy Seattle",
+        "city": "Seattle, WA",
+        "tickets": "https://www.eventbrite.com/e/mike-coletta-at-club-comedy-seattle-aug-26-27-tickets-387185100057?"
+    },
+    {
+        "id": 2,
+        "date": "July 22, 2022",
+        "time": "10:30pm",
+        "venue": "Club Comedy Seattle",
+        "city": "Seattle, WA",
+        "tickets": "https://www.eventbrite.com/e/mike-coletta-at-club-comedy-seattle-aug-26-27-tickets-387185100057?"
+    },
+    {
+        "id": 3,
+        "date": "July 23, 2022",
+        "time": "8:00pm",
+        "venue": "Club Comedy Seattle",
+        "city": "Seattle, WA",
+        "tickets": "https://www.eventbrite.com/e/mike-coletta-at-club-comedy-seattle-aug-26-27-tickets-387185100057?"
+    },
+    {
+        "id": 4,
+        "date": "July 23, 2022",
+        "time": "10:30pm",
+        "venue": "Club Comedy Seattle",
+        "city": "Seattle, WA",
+        "tickets": "https://www.eventbrite.com/e/mike-coletta-at-club-comedy-seattle-aug-26-27-tickets-387185100057?"
+    }
+]
