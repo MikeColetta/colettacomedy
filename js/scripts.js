@@ -72,7 +72,7 @@ fetch("tourdates.json")
                         <td>${tourdate.time}</td>
                         <td>${tourdate.venue}</td>
                         <td>${tourdate.city}</td>
-                        <td><button class="btn btn-primary btn-lg" id="ticketButton" type="button"><a class="buyTicketButton" href="${tourdate.tickets}" target="_blank">Buy Tickets!</a></button></td>
+                        <td><button class="btn btn-primary btn-md" id="ticketButton" type="button"><a class="buyTicketButton" href="${tourdate.tickets}" target="_blank">Buy Tickets!</a></button></td>
                     </tr>
             `;
         }
