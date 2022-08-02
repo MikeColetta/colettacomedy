@@ -30,5 +30,13 @@
         "venue": "Club Comedy Seattle",
         "city": "Seattle, WA",
         "tickets": "https://www.eventbrite.com/e/mike-coletta-at-club-comedy-seattle-aug-26-27-tickets-387185100057?aff=ebdsoporgprofile"
+    },
+        {
+        "id": 5,
+        "date": "September 4, 2022",
+        "time": "7:00pm",
+        "venue": "Four Horsemen Brewing",
+        "city": "Kent, WA",
+        "tickets": "fourhorsemen.beer"
     }
 ]
