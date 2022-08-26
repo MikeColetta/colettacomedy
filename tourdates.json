@@ -31,12 +31,61 @@
         "city": "Seattle, WA",
         "tickets": "https://www.eventbrite.com/e/mike-coletta-at-club-comedy-seattle-aug-26-27-tickets-387185100057?aff=ebdsoporgprofile"
     },
-        {
+    {
         "id": 5,
+        "date": "September 1, 2022",
+        "time": "7:30pm",
+        "venue": "Tacoma Comedy Club",
+        "city": "Tacoma, WA",
+        "tickets": "https://www.tacomacomedyclub.com/shows/175631"
+    },
+    {
+        "id": 6,
+        "date": "September 2, 2022",
+        "time": "7:30pm",
+        "venue": "Tacoma Comedy Club",
+        "city": "Tacoma, WA",
+        "tickets": "https://www.tacomacomedyclub.com/shows/175632"
+    },
+
+    {
+        "id": 8,
+        "date": "September 2, 2022",
+        "time": "10:30pm",
+        "venue": "Tacoma Comedy Club",
+        "city": "Tacoma, WA",
+        "tickets": "https://www.tacomacomedyclub.com/shows/175634"
+    },
+    {
+        "id": 9,
+        "date": "September 3, 2022",
+        "time": "7:30pm",
+        "venue": "Tacoma Comedy Club",
+        "city": "Tacoma, WA",
+        "tickets": "https://www.tacomacomedyclub.com/shows/175633"
+    },
+    {
+        "id": 10,
+        "date": "September 3, 2022",
+        "time": "10:30pm",
+        "venue": "Tacoma Comedy Club",
+        "city": "Tacoma, WA",
+        "tickets": "https://www.tacomacomedyclub.com/shows/175635"
+    },
+        {
+        "id": 11,
         "date": "September 4, 2022",
         "time": "7:00pm",
         "venue": "Four Horsemen Brewing",
         "city": "Kent, WA",
         "tickets": "fourhorsemen.beer"
+    },
+    {
+        "id": 12,
+        "date": "September 8, 2022",
+        "time": "7:30pm",
+        "venue": "Ricardo's",
+        "city": "Lacey, WA",
+        "tickets": "https://www.eventbee.com/v/comedyjam_ricardos#/tickets"
     }
 ]
