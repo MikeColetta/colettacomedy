@@ -38,5 +38,13 @@
         "venue": "Otter on the Rocks",
         "city": "Seattle, WA",
         "tickets": "https://www.eventbrite.com/e/routine-killers-october-showcase-tickets-390006990407"
+    },
+    {
+        "id": 6,
+        "date": "November 4, 2022",
+        "time": "11:59pm",
+        "venue": "CSZ Comedy Sports",
+        "city": "Seattle, WA",
+        "tickets": "https://www.facebook.com/SuperSecretSeattle"
     }
 ]
