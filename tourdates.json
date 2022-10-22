@@ -1,50 +1,27 @@
 [
     {
         "id": 1,
-        "date": "October 14, 2022",
-        "time": "8:00pm",
-        "venue": "Club Comedy Seattle",
-        "city": "Seattle, WA",
-        "tickets": "https://www.eventbrite.com/e/all-star-showcase-at-club-comedy-seattle-october-14-15-tickets-428029266057?aff=ebdsoporgprofile"
-    },
-    {
-        "id": 2,
-        "date": "October 14, 2022",
-        "time": "10:30pm",
-        "venue": "Club Comedy Seattle",
-        "city": "Seattle, WA",
-        "tickets": "https://www.eventbrite.com/e/all-star-showcase-at-club-comedy-seattle-october-14-15-tickets-428029266057?aff=ebdsoporgprofile"
-    },
-    {
-        "id": 3,
-        "date": "October 15, 2022",
-        "time": "8:00pm",
-        "venue": "Club Comedy Seattle",
-        "city": "Seattle, WA",
-        "tickets": "https://www.eventbrite.com/e/all-star-showcase-at-club-comedy-seattle-october-14-15-tickets-428029266057?aff=ebdsoporgprofile"
-    },
-    {
-        "id": 4,
-        "date": "October 15, 2022",
-        "time": "10:30pm",
-        "venue": "Club Comedy Seattle",
-        "city": "Seattle, WA",
-        "tickets": "https://www.eventbrite.com/e/all-star-showcase-at-club-comedy-seattle-october-14-15-tickets-428029266057?aff=ebdsoporgprofile"
-    },
-    {
-        "id": 5,
-        "date": "October 17, 2022",
-        "time": "7:30pm",
-        "venue": "Otter on the Rocks",
-        "city": "Seattle, WA",
-        "tickets": "https://www.eventbrite.com/e/routine-killers-october-showcase-tickets-390006990407"
-    },
-    {
-        "id": 6,
         "date": "November 4, 2022",
         "time": "11:59pm",
         "venue": "CSZ Comedy Sports",
         "city": "Seattle, WA",
         "tickets": "https://www.facebook.com/SuperSecretSeattle"
-    }
+    },
+    {
+        "id": 2,
+        "date": "November 19, 2022",
+        "time": "8:00pm",
+        "venue": "Halcyon Brewing Company",
+        "city": "Seattle, WA",
+        "tickets": "https://www.facebook.com/fellowshipofconvenience"
+    },
+    {
+        "id": 3,
+        "date": "November 23, 2022",
+        "time": "10:30pm",
+        "venue": "Tacoma Comedy Club",
+        "city": "Tacoma, WA",
+        "tickets": "https://www.tacomacomedyclub.com/events/64077"
+    },
+    
 ]
