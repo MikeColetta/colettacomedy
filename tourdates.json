@@ -23,5 +23,20 @@
         "city": "Tacoma, WA",
         "tickets": "https://www.tacomacomedyclub.com/events/64077"
     },
-    
+    {
+        "id": 4,
+        "date": "December 10, 2022",
+        "time": "8:00pm",
+        "venue": "Adnmiral Pub",
+        "city": "Seattle, WA",
+        "tickets": "https://www.facebook.com/AdmiralPub"
+    },
+    {
+        "id": 5,
+        "date": "December 17, 2022",
+        "time": "8:00pm",
+        "venue": "Pint and Pie",
+        "city": "Redmond, WA",
+        "tickets": "https://redmond.pintnpie.com/"
+    }
 ]
