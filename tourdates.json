@@ -8,6 +8,14 @@
         "tickets": "https://www.facebook.com/SuperSecretSeattle"
     },
     {
+        "id": 9,
+        "date": "January 8, 2023",
+        "time": "7:00pm",
+        "venue": "Club Comedy",
+        "city": "Seattle, WA",
+        "tickets": "hhttps://www.eventbrite.com/e/popular-comedy-show-at-club-comedy-seattle-sunday-18-tickets-487436013237?aff=ebdsoporgprofile"
+    },
+    {
         "id": 2,
         "date": "January 14, 2023",
         "time": "8:00pm",
@@ -46,5 +54,21 @@
         "venue": "Joker's Casino",
         "city": "Pasco, WA",
         "tickets": "https://www.brownpapertickets.com/event/5672747?date=2369445"
+    },
+    {
+        "id": 7,
+        "date": "February 17, 2023",
+        "time": "8:00pmpm",
+        "venue": "Chadwick's Bar and Grill",
+        "city": "Medford, OR",
+        "tickets": "https://rogueregency.com/chadwicks/"
+    },
+    {
+        "id": 8,
+        "date": "February 18, 2023",
+        "time": "8:00pmpm",
+        "venue": "Chadwick's Bar and Grill",
+        "city": "Medford, OR",
+        "tickets": "https://rogueregency.com/chadwicks/"
     }
 ]
