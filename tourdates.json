@@ -1,12 +1,4 @@
 [
-        {
-        "id": 19,
-        "date": "April 1, 2023",
-        "time": "8:00pm",
-        "venue": "2 Mile House Pub and Eatery",
-        "city": "Olympia, WA",
-        "tickets": "https://www.facebook.com/2MileHousePubAndEatery/"
-    },
     {
         "id": 20,
         "date": "April 14, 2023",
@@ -22,5 +14,37 @@
         "venue": "McFilers Chehalis Theater",
         "city": "Chehalis, WA",
         "tickets": "https://venue-the-dope-show-washington-505-seatengine-cloud.seatengine.com/shows/209451"
+    },
+    {
+        "id": 22,
+        "date": "April 28, 2023",
+        "time": "8:00pm",
+        "venue": "The Juice Box",
+        "city": "Centralia, WA",
+        "tickets": "https://www.eventbrite.com/e/hub-comedy-presents-gabriel-rutledge-live-at-the-juice-box-tickets-610004559057"
+    },
+    {
+        "id": 23,
+        "date": "May 5, 2023",
+        "time": "11:59pm",
+        "venue": "Atlas Theater",
+        "city": "Seattle, WA",
+        "tickets": "https://www.facebook.com/SuperSecretSeattle"
+    },
+    {
+        "id": 24,
+        "date": "May 6, 2023",
+        "time": "8:00pm",
+        "venue": "Eatonville Eagles",
+        "city": "Eatonville, WA",
+        "tickets": "https://www.facebook.com/profile.php?id=100029444871982"
+    },
+    {
+        "id": 25,
+        "date": "May 7, 2023",
+        "time": "7:00pm",
+        "venue": "Four Horsemen Brewery",
+        "city": "Kent, WA",
+        "tickets": "https://fourhorsemen.beer/shop/ols/products/ticket-to-four-horsemen-brewery-comedy-presents-drew-barth"
     }
 ]
