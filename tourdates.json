@@ -1,3 +1,4 @@
+[ 
     {
         "id": 23,
         "date": "May 5, 2023",
@@ -21,8 +22,8 @@
         "venue": "Four Horsemen Brewery",
         "city": "Kent, WA",
         "tickets": "https://fourhorsemen.beer/shop/ols/products/ticket-to-four-horsemen-brewery-comedy-presents-drew-barth"
-    }
-        {
+    },
+    {
         "id": 26,
         "date": "June 2, 2023",
         "time": "11:59pm",
