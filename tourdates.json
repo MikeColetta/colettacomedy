@@ -7,7 +7,7 @@
         "city": "Olympia, WA",
         "tickets": "https://www.washingtoncenter.org/event/23-06-15-comedy-underground/"
     },    
-{
+    {
         "id": 30,
         "date": "June 16, 2023",
         "time": "8:00pm",
@@ -17,6 +17,14 @@
     },
     {
         "id": 31,
+        "date": "June 24, 2023",
+        "time": "8:00pm",
+        "venue": "Kelso Theater Pub",
+        "city": "Kelso, WA",
+        "tickets": "https://ktpub.com/"
+    },
+    {
+        "id": 32,
         "date": "June 30, 2023",
         "time": "7:00pm",
         "venue": "WARR-King Winery",
@@ -24,7 +32,7 @@
         "tickets": "https://warr-kingwines.com/events/"
     },
     {
-        "id": 32,
+        "id": 33,
         "date": "July 27, 2023",
         "time": "8:00pm",
         "venue": "Club Comedy",
