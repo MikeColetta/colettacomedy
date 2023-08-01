@@ -1,42 +1,90 @@
 [ 
     {
-        "id": 29,
-        "date": "June 15, 2023",
-        "time": "7:30pm",
-        "venue": "Washington Center Black Box Theater",
-        "city": "Olympia, WA",
-        "tickets": "https://www.washingtoncenter.org/event/23-06-15-comedy-underground/"
+        "id": 1,
+        "date": "August 4, 2023",
+        "time": "11:59pm",
+        "venue": "CSZ Comedy Sports",
+        "city": "Seattle, WA",
+        "tickets": "https://www.eventbrite.com/e/seattle-super-secret-standup-show-august-23-tickets-689579118707"
     },    
     {
-        "id": 30,
-        "date": "June 16, 2023",
-        "time": "8:00pm",
-        "venue": "Club 48",
-        "city": "Yakima, WA",
-        "tickets": "https://www.eventbrite.com/e/comedy-night-at-club-48-with-monica-nevi-tickets-650354637227"
-    },
-    {
-        "id": 31,
-        "date": "June 24, 2023",
-        "time": "8:00pm",
-        "venue": "Kelso Theater Pub",
-        "city": "Kelso, WA",
-        "tickets": "https://ktpub.com/"
-    },
-    {
-        "id": 32,
-        "date": "June 30, 2023",
+        "id": 2,
+        "date": "August 6, 2023",
         "time": "7:00pm",
-        "venue": "WARR-King Winery",
-        "city": "Woodinville, WA",
-        "tickets": "https://warr-kingwines.com/events/"
+        "venue": "Four Horsemen Brewery",
+        "city": "Kent, WA",
+        "tickets": "https://www.fourhorsemen.beer"
     },
     {
-        "id": 33,
-        "date": "July 27, 2023",
+        "id": 3,
+        "date": "August 9 2023",
         "time": "8:00pm",
-        "venue": "Club Comedy",
-        "city": "Seattle, WA",
-        "tickets": "https://www.eventbrite.com/e/one-night-only-with-mike-coletta-at-club-comedy-seattle-july-27-800pm-tickets-661204158437"
+        "venue": "McMenamins Spanish Ballroom at Elks Temple",
+        "city": "Tacoma, WA",
+        "tickets": "https://event.etix.com/ticket/online/performanceSale.do?performance_id=6784417&method=restoreToken"
+    },
+    {
+        "id": 4,
+        "date": "September 7, 2023",
+        "time": "8:00pm",
+        "venue": "Doug Fir",
+        "city": "Portland, OR",
+        "tickets": "https://www.dougfirlounge.com/"
+    },
+    {
+        "id": 5,
+        "date": "September 8, 2023",
+        "time": "8:00pm",
+        "venue": "Stan's BBQ",
+        "city": "Issaquah, WA",
+        "tickets": "https://stansbarbq.com/stansbarbbq/events"
+    },
+    {
+        "id": 6,
+        "date": "September 14, 2023",
+        "time": "8:00pm",
+        "venue": "Ricardo's",
+        "city": "Lacey, WA",
+        "tickets": "https://happeningnext.com/event/comedy-jam-6-of-the-best-nw-headliners-on-one-stage-eid1ar693ksfw"
+    },
+    {
+        "id": 7,
+        "date": "October 6, 2023",
+        "time": "8:00pm",
+        "venue": "Tacoma Comedy Club - 6th and Proctor",
+        "city": "Tacoma, WA",
+        "tickets": "https://www.tacomacomedyclub.com/shows/227524"
+    },
+    {
+        "id": 8,
+        "date": "October 7, 2023",
+        "time": "7:30pm",
+        "venue": "Tacoma Comedy Club - 6th and Proctor",
+        "city": "Tacoma, WA",
+        "tickets": "https://www.tacomacomedyclub.com/shows/227524"
+    },
+    {
+        "id": 9,
+        "date": "October 7, 2023",
+        "time": "9:45pm",
+        "venue": "Tacoma Comedy Club - 6th and Proctor",
+        "city": "Tacoma, WA",
+        "tickets": "https://www.tacomacomedyclub.com/shows/227524"
+    },
+    {
+        "id": 10,
+        "date": "October 8, 2023",
+        "time": "7:30pm",
+        "venue": "Tacoma Comedy Club - 6th and Proctor",
+        "city": "Tacoma, WA",
+        "tickets": "https://www.tacomacomedyclub.com/shows/227524"
+    },
+    {
+        "id": 11,
+        "date": "November 2, 2023",
+        "time": "8:00pm",
+        "venue": "Etsi Bravo",
+        "city": "Pullman, WA",
+        "tickets": "#"
     }
 ]
