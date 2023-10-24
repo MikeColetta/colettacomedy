@@ -1,19 +1,11 @@
 [ 
     {
-        "id": 10,
-        "date": "October 22, 2023",
-        "time": "6:00pm",
-        "venue": "Tacoma Comedy Club - Downtown",
-        "city": "Tacoma, WA",
-        "tickets": "https://www.tacomacomedyclub.com/shows/206528"
-    },
-    {
         "id": 11,
         "date": "November 5, 2023",
-        "time": "7:30pm",
+        "time": "2:00pm",
         "venue": "Tacoma Comedy Club 6th and Proctor",
         "city": "Tacoma, WA",
-        "tickets": "https://www.tacomacomedyclub.com/"
+        "tickets": "https://www.tacomacomedyclub.com/shows/231582"
     },
     {
         "id": 12,
