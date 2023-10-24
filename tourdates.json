@@ -9,11 +9,11 @@
     },
     {
         "id": 11,
-        "date": "November 2, 2023",
-        "time": "8:00pm",
-        "venue": "Etsi Bravo",
-        "city": "Pullman, WA",
-        "tickets": "#"
+        "date": "November 5, 2023",
+        "time": "7:30pm",
+        "venue": "Tacoma Comedy Club 6th and Proctor",
+        "city": "Tacoma, WA",
+        "tickets": "https://www.tacomacomedyclub.com/"
     },
     {
         "id": 12,
@@ -45,6 +45,14 @@
         "time": "8:00pm",
         "venue": "Roxy Theater",
         "city": "Bremerton, WA",
+        "tickets": "#"
+    },
+    {
+        "id": 16,
+        "date": "December 7, 2023",
+        "time": "8:00pm",
+        "venue": "Etsi Bravo",
+        "city": "Pullman, WA",
         "tickets": "#"
     }
 ]
