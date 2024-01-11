@@ -46,5 +46,37 @@
         "venue": "Tacoma Comedy Club",
         "city": "Tacoma, WA",
         "tickets": "https://www.tacomacomedyclub.com/events/68517"
+    },
+    {
+        "id": 20,
+        "date": "February 7, 2024",
+        "time": "8:00pm",
+        "venue": "Snoqualmie Valley Country Club",
+        "city": "Snoqualmie, WA",
+        "tickets": "#"
+    },
+    {
+        "id": 21,
+        "date": "February 10, 2024",
+        "time": "8:00pm",
+        "venue": "Northwest Brewing Pint & Pie Public House",
+        "city": "Redmond, WA",
+        "tickets": "#"
+    },
+    {
+        "id": 22,
+        "date": "February 23, 2024",
+        "time": "7:30pm",
+        "venue": "Edmonds Center for the Arts",
+        "city": "Edmonds, WA",
+        "tickets": "#"
+    },
+    {
+        "id": 23,
+        "date": "February 24, 2024",
+        "time": "7:30pm",
+        "venue": "Edmonds Center for the Arts",
+        "city": "Edmonds, WA",
+        "tickets": "#"
     }
 ]
