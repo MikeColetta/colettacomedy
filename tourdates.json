@@ -1,66 +1,50 @@
 [ 
     {
         "id": 14,
-        "date": "November 25, 2023",
-        "time": "8:00pm",
-        "venue": "Carco Theater",
-        "city": "Renton, WA",
-        "tickets": "https://www.eventbrite.com/e/monica-nevi-live-holiday-special-taping-tickets-555882628907"
+        "date": "January 13, 2024",
+        "time": "7:30pm",
+        "venue": "Wild Man Gastropub",
+        "city": "Olympia, WA",
+        "tickets": "https://www.eventbee.com/v/mike-coletta-comedy-night/event?eid=254615004#/tickets"
     },
     {
         "id": 145,
-        "date": "December 1, 2023",
-        "time": "11:59pm",
-        "venue": "CSZ Comedy Sports",
-        "city": "Seattle, WA",
-        "tickets": "#"
+        "date": "February 1, 2024",
+        "time": "7:30pm",
+        "venue": "Tacoma Comedy Club",
+        "city": "Tacoma, WA",
+        "tickets": "https://www.tacomacomedyclub.com/events/68517"
     },
     {
-        "id": 15,
-        "date": "December 2, 2023",
-        "time": "8:45pm",
-        "venue": "The Cove",
-        "city": "Olympia, WA",
-        "tickets": "https://baurice.com/"
+        "id": 145,
+        "date": "February 2, 2024",
+        "time": "7:30pm",
+        "venue": "Tacoma Comedy Club",
+        "city": "Tacoma, WA",
+        "tickets": "https://www.tacomacomedyclub.com/events/68517"
     },
     {
-        "id": 16,
-        "date": "December 7, 2023",
-        "time": "8:00pm",
-        "venue": "Etsi Bravo",
-        "city": "Pullman, WA",
-        "tickets": "#"
+        "id": 145,
+        "date": "February 2, 2024",
+        "time": "10:15pm",
+        "venue": "Tacoma Comedy Club",
+        "city": "Tacoma, WA",
+        "tickets": "https://www.tacomacomedyclub.com/events/68517"
     },
     {
-        "id": 161,
-        "date": "December 14, 2023",
-        "time": "8:00pm",
-        "venue": "Club Comedy",
-        "city": "Seattle, WA",
-        "tickets": "https://www.eventbrite.com/o/club-comedy-seattle-18936516174"
+        "id": 145,
+        "date": "February 3, 2024",
+        "time": "7:30pm",
+        "venue": "Tacoma Comedy Club",
+        "city": "Tacoma, WA",
+        "tickets": "https://www.tacomacomedyclub.com/events/68517"
     },
      {
-        "id": 17,
-        "date": "December 16, 2023",
-        "time": "8:00pm",
-        "venue": "Bickerson's Brewhouse",
-        "city": "Renton, WA",
-        "tickets": "#"
-    },
-    {
-        "id": 18,
-        "date": "December 20, 2023",
-        "time": "7:00pm",
-        "venue": "Here After",
-        "city": "Seattle, WA",
-        "tickets": "https://www.ticketweb.com/event/lisa-wallen-mike-coletta-here-after-tickets/13842258"
-    },
-    {
-        "id": 19,
-        "date": "December 21, 2023",
-        "time": "8:00pm",
-        "venue": "Angel of the Winds Casino",
-        "city": "Arlington, WA",
-        "tickets": "#"
+        "id": 145,
+        "date": "February 3, 2024",
+        "time": "10:15pm",
+        "venue": "Tacoma Comedy Club",
+        "city": "Tacoma, WA",
+        "tickets": "https://www.tacomacomedyclub.com/events/68517"
     }
 ]
