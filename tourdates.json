@@ -9,15 +9,15 @@
     },
     {
         "id": 15,
-        "date": "February 1, 2024",
+        "date": "January 27, 2024",
         "time": "7:30pm",
-        "venue": "Tacoma Comedy Club",
-        "city": "Tacoma, WA",
-        "tickets": "https://www.tacomacomedyclub.com/events/68517"
+        "venue": "Hopvine Pub",
+        "city": "Seattle, WA",
+        "tickets": "https://www.hopvinepub.com/events"
     },
     {
         "id": 16,
-        "date": "February 2, 2024",
+        "date": "February 1, 2024",
         "time": "7:30pm",
         "venue": "Tacoma Comedy Club",
         "city": "Tacoma, WA",
@@ -26,13 +26,21 @@
     {
         "id": 17,
         "date": "February 2, 2024",
-        "time": "10:15pm",
+        "time": "7:30pm",
         "venue": "Tacoma Comedy Club",
         "city": "Tacoma, WA",
         "tickets": "https://www.tacomacomedyclub.com/events/68517"
     },
     {
         "id": 18,
+        "date": "February 2, 2024",
+        "time": "10:15pm",
+        "venue": "Tacoma Comedy Club",
+        "city": "Tacoma, WA",
+        "tickets": "https://www.tacomacomedyclub.com/events/68517"
+    },
+    {
+        "id": 19,
         "date": "February 3, 2024",
         "time": "7:30pm",
         "venue": "Tacoma Comedy Club",
@@ -40,7 +48,7 @@
         "tickets": "https://www.tacomacomedyclub.com/events/68517"
     },
      {
-        "id": 19,
+        "id": 20,
         "date": "February 3, 2024",
         "time": "10:15pm",
         "venue": "Tacoma Comedy Club",
@@ -48,7 +56,7 @@
         "tickets": "https://www.tacomacomedyclub.com/events/68517"
     },
     {
-        "id": 20,
+        "id": 21,
         "date": "February 7, 2024",
         "time": "8:00pm",
         "venue": "Snoqualmie Valley Country Club",
@@ -56,7 +64,7 @@
         "tickets": "#"
     },
     {
-        "id": 21,
+        "id": 22,
         "date": "February 10, 2024",
         "time": "8:00pm",
         "venue": "Northwest Brewing Pint & Pie Public House",
@@ -64,7 +72,7 @@
         "tickets": "#"
     },
     {
-        "id": 22,
+        "id": 23,
         "date": "February 23, 2024",
         "time": "7:30pm",
         "venue": "Edmonds Center for the Arts",
@@ -72,7 +80,7 @@
         "tickets": "#"
     },
     {
-        "id": 23,
+        "id": 24,
         "date": "February 24, 2024",
         "time": "7:30pm",
         "venue": "Edmonds Center for the Arts",
