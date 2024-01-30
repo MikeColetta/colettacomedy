@@ -1,21 +1,5 @@
 [ 
     {
-        "id": 14,
-        "date": "January 13, 2024",
-        "time": "7:30pm",
-        "venue": "Wild Man Gastropub",
-        "city": "Olympia, WA",
-        "tickets": "https://www.eventbee.com/v/mike-coletta-comedy-night/event?eid=254615004#/tickets"
-    },
-    {
-        "id": 15,
-        "date": "January 27, 2024",
-        "time": "7:30pm",
-        "venue": "Hopvine Pub",
-        "city": "Seattle, WA",
-        "tickets": "https://www.hopvinepub.com/events"
-    },
-    {
         "id": 16,
         "date": "February 1, 2024",
         "time": "7:30pm",
@@ -73,6 +57,14 @@
     },
     {
         "id": 23,
+        "date": "February 22, 2024",
+        "time": "7:00pm",
+        "venue": "McQueen Champagne Bar",
+        "city": "Woodinville, WA",
+        "tickets": "#"
+    },
+    {
+        "id": 24,
         "date": "February 23, 2024",
         "time": "7:30pm",
         "venue": "Edmonds Center for the Arts",
@@ -80,7 +72,7 @@
         "tickets": "#"
     },
     {
-        "id": 24,
+        "id": 25,
         "date": "February 24, 2024",
         "time": "7:30pm",
         "venue": "Edmonds Center for the Arts",
