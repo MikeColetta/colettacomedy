@@ -14,5 +14,13 @@
         "venue": "Edmonds Center for the Arts",
         "city": "Edmonds, WA",
         "tickets": "#"
+    },
+        {
+        "id": 26,
+        "date": "March 1st, 2024",
+        "time": "11:59pm",
+        "venue": "Atlas Theater - CSZ Comedy Sports",
+        "city": "Seattle, WA",
+        "tickets": "#"
     }
 ]
