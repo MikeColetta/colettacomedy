@@ -22,5 +22,13 @@
         "venue": "Atlas Theater - CSZ Comedy Sports",
         "city": "Seattle, WA",
         "tickets": "#"
-    }
+    },
+    {
+        "id": 25,
+        "date": "March 17, 2024",
+        "time": "7:30pm",
+        "venue": "Tacoma Comedy Club 6th and Proctor",
+        "city": "Tacoma, WA",
+        "tickets": "#"
+    },
 ]
