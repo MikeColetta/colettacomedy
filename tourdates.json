@@ -24,11 +24,35 @@
         "tickets": "#"
     },
     {
-        "id": 25,
+        "id": 27,
         "date": "March 17, 2024",
         "time": "7:30pm",
         "venue": "Tacoma Comedy Club 6th and Proctor",
         "city": "Tacoma, WA",
+        "tickets": "https://www.tacomacomedyclub.com/shows/256816"
+    },
+    {
+        "id": 28,
+        "date": "March 22, 2024",
+        "time": "7:00pm",
+        "venue": "Private Show",
+        "city": "Gig Harbor, WA",
         "tickets": "#"
+    },
+    {
+        "id": 29,
+        "date": "March 23, 2024",
+        "time": "4:00pm",
+        "venue": "Tacoma Comedy Club",
+        "city": "Tacoma, WA",
+        "tickets": "#"
+    },
+    {
+        "id": 30,
+        "date": "March 28, 2024",
+        "time": "8:00pm",
+        "venue": "Club Comedy",
+        "city": "Seattle, WA",
+        "tickets": "https://www.eventbrite.com/e/popular-comedy-show-at-club-comedy-seattle-thursday-328-800pm-tickets-846793561337?aff=ebdsoporgprofile"
     }
 ]
