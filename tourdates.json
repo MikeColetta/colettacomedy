@@ -54,5 +54,21 @@
         "venue": "Club Comedy",
         "city": "Seattle, WA",
         "tickets": "https://www.eventbrite.com/e/popular-comedy-show-at-club-comedy-seattle-thursday-328-800pm-tickets-846793561337?aff=ebdsoporgprofile"
+    },
+    {
+        "id": 31,
+        "date": "April 13, 2024",
+        "time": "8:00pm",
+        "venue": "Mission Ridge",
+        "city": "Wenatchee, WA",
+        "tickets": "#"
+    },
+    {
+        "id": 32,
+        "date": "April 14, 2024",
+        "time": "6:00pm",
+        "venue": "Four Horsemen Brewery",
+        "city": "Kent, WA",
+        "tickets": "#"
     }
 ]
