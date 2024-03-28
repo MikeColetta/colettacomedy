@@ -1,20 +1,4 @@
 [ 
-    {
-        "id": 24,
-        "date": "February 23, 2024",
-        "time": "7:30pm",
-        "venue": "Edmonds Center for the Arts",
-        "city": "Edmonds, WA",
-        "tickets": "#"
-    },
-    {
-        "id": 25,
-        "date": "February 24, 2024",
-        "time": "7:30pm",
-        "venue": "Edmonds Center for the Arts",
-        "city": "Edmonds, WA",
-        "tickets": "#"
-    },
         {
         "id": 26,
         "date": "March 1st, 2024",
@@ -69,6 +53,22 @@
         "time": "6:00pm",
         "venue": "Four Horsemen Brewery",
         "city": "Kent, WA",
-        "tickets": "#"
+        "tickets": "https://fourhorsemen.beer/shop/ols/products/four-horsemen-brewery-comedy-presents-deece-casillas"
+    },
+        {
+        "id": 33,
+        "date": "April 20, 2024",
+        "time": "8:30pm",
+        "venue": "McFilers Theater",
+        "city": "Chehalis, WA",
+        "tickets": "https://www.thedopeshow.com/pages/tour-dates"
+    },
+            {
+        "id": 33,
+        "date": "May 19, 2024",
+        "time": "6:00pm",
+        "venue": "Four Horsemen Brewery",
+        "city": "Kent, WA",
+        "tickets": "https://fourhorsemen.beer"
     }
 ]
