@@ -39,8 +39,16 @@
         "city": "Seattle, WA",
         "tickets": "https://www.eventbrite.com/e/popular-comedy-show-at-club-comedy-seattle-thursday-328-800pm-tickets-846793561337?aff=ebdsoporgprofile"
     },
-    {
+        {
         "id": 31,
+        "date": "April 5, 2024",
+        "time": "7:00pm",
+        "venue": "Peninsula HS",
+        "city": "Gig Harbor, WA",
+        "tickets": "#"
+    },
+    {
+        "id": 32,
         "date": "April 13, 2024",
         "time": "8:00pm",
         "venue": "Mission Ridge",
@@ -48,7 +56,7 @@
         "tickets": "#"
     },
     {
-        "id": 32,
+        "id": 33,
         "date": "April 14, 2024",
         "time": "6:00pm",
         "venue": "Four Horsemen Brewery",
@@ -56,7 +64,7 @@
         "tickets": "https://fourhorsemen.beer/shop/ols/products/four-horsemen-brewery-comedy-presents-deece-casillas"
     },
         {
-        "id": 33,
+        "id": 34,
         "date": "April 20, 2024",
         "time": "8:30pm",
         "venue": "McFilers Theater",
@@ -64,7 +72,7 @@
         "tickets": "https://www.thedopeshow.com/pages/tour-dates"
     },
             {
-        "id": 33,
+        "id": 35,
         "date": "May 19, 2024",
         "time": "6:00pm",
         "venue": "Four Horsemen Brewery",
