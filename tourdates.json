@@ -33,6 +33,13 @@
     },
     {
         "id": 39,
+        "date": "June 8, 2024",
+        "time": "Casey's Bar and Grille",
+        "city": "Belfair, WA",
+        "tickets": "#"
+    }, 
+    {
+        "id": 40,
         "date": "June 13, 2024",
         "time": "7:00pm",
         "venue": "Rockport Bar and Grill",
@@ -40,11 +47,19 @@
         "tickets": "https://www.watercorecider.com/s-projects-basic"
     },
     {
-        "id": 40,
+        "id": 41,
         "date": "June 30, 2024",
         "time": "6:00pm",
         "venue": "Four Horsemen Brewery",
         "city": "Kent, WA",
         "tickets": "https://fourhorsemen.beer"
+    },
+     {
+        "id": 42,
+        "date": "July 6th, 2024",
+        "time": "7:30pm",
+        "venue": "Fraternal Order of the Eagles",
+        "city": "Poulsbo, WA",
+        "tickets": "#"
     }
 ]
