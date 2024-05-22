@@ -46,8 +46,16 @@
         "city": "Rockport, WA",
         "tickets": "https://www.watercorecider.com/s-projects-basic"
     },
-    {
+        {
         "id": 41,
+        "date": "June 23, 2024",
+        "time": "7:00pm",
+        "venue": "Tacoma Comedy Club 6th and Proctor",
+        "city": "Tacoma, WA",
+        "tickets": "https://www.tacomacomedyclub.com/shows/265212"
+    },
+    {
+        "id": 42,
         "date": "June 30, 2024",
         "time": "6:00pm",
         "venue": "Four Horsemen Brewery",
@@ -55,7 +63,7 @@
         "tickets": "https://fourhorsemen.beer"
     },
     {
-        "id": 42,
+        "id": 43,
         "date": "July 6th, 2024",
         "time": "7:30pm",
         "venue": "Fraternal Order of the Eagles",
@@ -63,7 +71,23 @@
         "tickets": "#"
     },
     {
-        "id": 43,
+        "id": 44,
+        "date": "July 11th, 2024",
+        "time": "8:30pm",
+        "venue": "Capitol Hill Comedy/Bar",
+        "city": "Seattle, WA",
+        "tickets": "https://www.comedyslashbar.com/events/90311"
+    },
+        {
+        "id": 45,
+        "date": "July 13th, 2024",
+        "time": "8:00pm",
+        "venue": "Mission Ridge",
+        "city": "Wenatchee, WA",
+        "tickets": "#"
+    },
+    {
+        "id": 46,
         "date": "July 20th, 2024",
         "time": "8:00pm",
         "venue": "Bourbon West",
@@ -71,7 +95,7 @@
         "tickets": "#"
     },
     {
-        "id": 44,
+        "id": 47,
         "date": "July 28th, 2024",
         "time": "6:00pm",
         "venue": "Four Horsemen Brewery",
