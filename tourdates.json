@@ -34,7 +34,8 @@
     {
         "id": 39,
         "date": "June 8, 2024",
-        "time": "Casey's Bar and Grille",
+        "time": "7:00pm",
+        "venue": "Casey's Bar and Grille",
         "city": "Belfair, WA",
         "tickets": "#"
     }, 
