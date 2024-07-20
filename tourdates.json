@@ -1,106 +1,58 @@
 [ 
     {
-        "id": 35,
-        "date": "May 19, 2024",
-        "time": "6:00pm",
-        "venue": "Four Horsemen Brewery",
-        "city": "Kent, WA",
-        "tickets": "https://fourhorsemen.beer"
-    },
-    {
-        "id": 36,
-        "date": "May 22, 2024",
-        "time": "8:00pm",
-        "venue": "Comedy/Bar",
-        "city": "Seattle, WA",
-        "tickets": "https://www.comedyslashbar.com/shows/261186"
-    },
-    {
-        "id": 37,
-        "date": "June 1, 2024",
-        "time": "8:00pm",
-        "venue": "Watercore Cider",
-        "city": "Wenatchee, WA",
-        "tickets": "https://www.eventbrite.com/e/comedy-show-with-mike-coletta-laine-heikel-and-jason-sims-tickets-908514821287?aff=oddtdtcreator"
-    },
-    {
-        "id": 38,
-        "date": "June 7, 2024",
-        "time": "11:59pm",
-        "venue": "Atlas Theater",
-        "city": "Seattle, WA",
-        "tickets": "https://www.watercorecider.com/s-projects-basic"
-    },
-    {
-        "id": 39,
-        "date": "June 8, 2024",
-        "time": "7:00pm",
-        "venue": "Casey's Bar and Grille",
-        "city": "Belfair, WA",
-        "tickets": "#"
-    }, 
-    {
-        "id": 40,
-        "date": "June 13, 2024",
-        "time": "7:00pm",
-        "venue": "Rockport Bar and Grill",
-        "city": "Rockport, WA",
-        "tickets": "https://www.watercorecider.com/s-projects-basic"
-    },
-        {
-        "id": 41,
-        "date": "June 23, 2024",
-        "time": "7:00pm",
-        "venue": "Tacoma Comedy Club 6th and Proctor",
-        "city": "Tacoma, WA",
-        "tickets": "https://www.tacomacomedyclub.com/shows/265212"
-    },
-    {
-        "id": 42,
-        "date": "June 30, 2024",
-        "time": "6:00pm",
-        "venue": "Four Horsemen Brewery",
-        "city": "Kent, WA",
-        "tickets": "https://fourhorsemen.beer"
-    },
-    {
-        "id": 43,
-        "date": "July 6th, 2024",
-        "time": "7:30pm",
-        "venue": "Fraternal Order of the Eagles",
-        "city": "Poulsbo, WA",
-        "tickets": "#"
-    },
-    {
-        "id": 44,
-        "date": "July 11th, 2024",
-        "time": "8:30pm",
-        "venue": "Capitol Hill Comedy/Bar",
-        "city": "Seattle, WA",
-        "tickets": "https://www.comedyslashbar.com/events/90311"
-    },
-        {
-        "id": 45,
-        "date": "July 12th, 2024",
-        "time": "8:00pm",
-        "venue": "Mission Ridge",
-        "city": "Wenatchee, WA",
-        "tickets": "#"
-    },
-    {
-        "id": 46,
-        "date": "July 20th, 2024",
-        "time": "8:00pm",
-        "venue": "Bourbon West",
-        "city": "Port Angeles, WA",
-        "tickets": "#"
-    },
-    {
         "id": 47,
         "date": "July 28th, 2024",
         "time": "6:00pm",
         "venue": "Four Horsemen Brewery",
         "city": "Kent, WA",
         "tickets": "https://fourhorsemen.beer"
-    }
+    },
+    {
+        "id": 48,
+        "date": "August 21st, 2024",
+        "time": "8:00pm",
+        "venue": "Loony Bin",
+        "city": "Little Rock, AR",
+        "tickets": "https://lr.loonybincomedy.com/ShowDetails/f4efb64f-ca3a-4e37-a7ca-3645626508cc/46a4734a-d472-4d42-9712-3574fd06ed97/Bo_Johnson_/Little_Rock"
+    },
+    {
+        "id": 49,
+        "date": "August 22nd, 2024",
+        "time": "8:00pm",
+        "venue": "Loony Bin",
+        "city": "Little Rock, AR",
+        "tickets": "https://lr.loonybincomedy.com/ShowDetails/f4efb64f-ca3a-4e37-a7ca-3645626508cc/46a4734a-d472-4d42-9712-3574fd06ed97/Bo_Johnson_/Little_Rock"
+    },
+    {
+        "id": 50,
+        "date": "August 23rd, 2024",
+        "time": "7:30pm",
+        "venue": "Loony Bin",
+        "city": "Little Rock, AR",
+        "tickets": "https://lr.loonybincomedy.com/ShowDetails/f4efb64f-ca3a-4e37-a7ca-3645626508cc/46a4734a-d472-4d42-9712-3574fd06ed97/Bo_Johnson_/Little_Rock"
+    },
+    {
+        "id": 51,
+        "date": "August 23rd, 2024",
+        "time": "10:00pm",
+        "venue": "Loony Bin",
+        "city": "Little Rock, AR",
+        "tickets": "https://lr.loonybincomedy.com/ShowDetails/f4efb64f-ca3a-4e37-a7ca-3645626508cc/46a4734a-d472-4d42-9712-3574fd06ed97/Bo_Johnson_/Little_Rock"
+    },
+    {
+        "id": 52,
+        "date": "August 24th, 2024",
+        "time": "7:30pm",
+        "venue": "Loony Bin",
+        "city": "Little Rock, AR",
+        "tickets": "https://lr.loonybincomedy.com/ShowDetails/f4efb64f-ca3a-4e37-a7ca-3645626508cc/46a4734a-d472-4d42-9712-3574fd06ed97/Bo_Johnson_/Little_Rock"
+    },
+    {
+        "id": 53,
+        "date": "August 24th, 2024",
+        "time": "10:00pm",
+        "venue": "Loony Bin",
+        "city": "Little Rock, AR",
+        "tickets": "https://lr.loonybincomedy.com/ShowDetails/f4efb64f-ca3a-4e37-a7ca-3645626508cc/46a4734a-d472-4d42-9712-3574fd06ed97/Bo_Johnson_/Little_Rock"
+    },
 ]
