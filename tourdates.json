@@ -110,5 +110,13 @@
         "venue": "Chalet Theater",
         "city": "Enumclaw, WA",
         "tickets": "#"
+    },
+        {
+        "id": 61,
+        "date": "September 29, 2024",
+        "time": "6:00pm",
+        "venue": "Four Horsemen Brewery",
+        "city": "Kent, WA",
+        "tickets": "#"
     }
 ]
