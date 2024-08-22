@@ -54,5 +54,61 @@
         "venue": "Loony Bin",
         "city": "Little Rock, AR",
         "tickets": "https://lr.loonybincomedy.com/ShowDetails/f4efb64f-ca3a-4e37-a7ca-3645626508cc/46a4734a-d472-4d42-9712-3574fd06ed97/Bo_Johnson_/Little_Rock"
+    },
+    {
+        "id": 54,
+        "date": "September 6, 2024",
+        "time": "8:00pm",
+        "venue": "Don't Tell",
+        "city": "Seattle, WA",
+        "tickets": "https://www.donttellcomedy.com/shows/seattle-09-06-24/"
+    },
+    {
+        "id": 55,
+        "date": "September 6, 2024",
+        "time": "11:59pm",
+        "venue": "Atlas Theater",
+        "city": "Seattle, WA",
+        "tickets": "https://www.eventbrite.com/e/seattle-super-secret-standup-show-sept-2024-tickets-978459788567?aff=erelexpmlt"
+    },
+    {
+        "id": 56,
+        "date": "September 7, 2024",
+        "time": "3:00pm",
+        "venue": "Tacoma Comedy Club",
+        "city": "Tacoma, WA",
+        "tickets": "https://www.tacomacomedyclub.com/shows/272346"
+    },
+    {
+        "id": 57,
+        "date": "September 12, 2024",
+        "time": "7:00pm",
+        "venue": "Tacoma Comedy Club",
+        "city": "Tacoma, WA",
+        "tickets": "https://www.tacomacomedyclub.com/shows/262977"
+    },
+    {
+        "id": 58,
+        "date": "September 13, 2024",
+        "time": "7:00pm",
+        "venue": "Ohme Gardens",
+        "city": "Wenatchee, WA",
+        "tickets": "https://checkout.square.site/buy/NZE7SAVVQAGO76HJW7NKASCN"
+    },
+    {
+        "id": 59,
+        "date": "September 14, 2024",
+        "time": "8:00pm",
+        "venue": "Carco Theater",
+        "city": "Renton, WA",
+        "tickets": "https://www.eventbrite.com/e/comedy-at-carco-susan-rice-tickets-949424112077?aff=erelexpmlt"
+    },
+    {
+        "id": 60,
+        "date": "September 20, 2024",
+        "time": "8:00pm",
+        "venue": "Chalet Theater",
+        "city": "Enumclaw, WA",
+        "tickets": "#"
     }
 ]
