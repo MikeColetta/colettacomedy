@@ -1,61 +1,5 @@
 [ 
     {
-        "id": 47,
-        "date": "August 18th, 2024",
-        "time": "7:00pm",
-        "venue": "Here After",
-        "city": "Seattle, WA",
-        "tickets": "https://www.ticketweb.com/event/lisa-wallen-here-after-tickets/13474454"
-    },
-    {
-        "id": 48,
-        "date": "August 21st, 2024",
-        "time": "8:00pm",
-        "venue": "Loony Bin",
-        "city": "Little Rock, AR",
-        "tickets": "https://lr.loonybincomedy.com/ShowDetails/f4efb64f-ca3a-4e37-a7ca-3645626508cc/46a4734a-d472-4d42-9712-3574fd06ed97/Bo_Johnson_/Little_Rock"
-    },
-    {
-        "id": 49,
-        "date": "August 22nd, 2024",
-        "time": "8:00pm",
-        "venue": "Loony Bin",
-        "city": "Little Rock, AR",
-        "tickets": "https://lr.loonybincomedy.com/ShowDetails/f4efb64f-ca3a-4e37-a7ca-3645626508cc/46a4734a-d472-4d42-9712-3574fd06ed97/Bo_Johnson_/Little_Rock"
-    },
-    {
-        "id": 50,
-        "date": "August 23rd, 2024",
-        "time": "7:30pm",
-        "venue": "Loony Bin",
-        "city": "Little Rock, AR",
-        "tickets": "https://lr.loonybincomedy.com/ShowDetails/f4efb64f-ca3a-4e37-a7ca-3645626508cc/46a4734a-d472-4d42-9712-3574fd06ed97/Bo_Johnson_/Little_Rock"
-    },
-    {
-        "id": 51,
-        "date": "August 23rd, 2024",
-        "time": "10:00pm",
-        "venue": "Loony Bin",
-        "city": "Little Rock, AR",
-        "tickets": "https://lr.loonybincomedy.com/ShowDetails/f4efb64f-ca3a-4e37-a7ca-3645626508cc/46a4734a-d472-4d42-9712-3574fd06ed97/Bo_Johnson_/Little_Rock"
-    },
-    {
-        "id": 52,
-        "date": "August 24th, 2024",
-        "time": "7:30pm",
-        "venue": "Loony Bin",
-        "city": "Little Rock, AR",
-        "tickets": "https://lr.loonybincomedy.com/ShowDetails/f4efb64f-ca3a-4e37-a7ca-3645626508cc/46a4734a-d472-4d42-9712-3574fd06ed97/Bo_Johnson_/Little_Rock"
-    },
-    {
-        "id": 53,
-        "date": "August 24th, 2024",
-        "time": "10:00pm",
-        "venue": "Loony Bin",
-        "city": "Little Rock, AR",
-        "tickets": "https://lr.loonybincomedy.com/ShowDetails/f4efb64f-ca3a-4e37-a7ca-3645626508cc/46a4734a-d472-4d42-9712-3574fd06ed97/Bo_Johnson_/Little_Rock"
-    },
-    {
         "id": 54,
         "date": "September 6, 2024",
         "time": "8:00pm",
@@ -111,7 +55,7 @@
         "city": "Enumclaw, WA",
         "tickets": "#"
     },
-        {
+    {
         "id": 61,
         "date": "September 29, 2024",
         "time": "6:00pm",
