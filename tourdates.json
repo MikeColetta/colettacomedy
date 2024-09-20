@@ -57,10 +57,50 @@
     },
     {
         "id": 61,
+        "date": "September 26, 2024",
+        "time": "7:00pm",
+        "venue": "Spokane Comedy Club",
+        "city": "Spokane, WA",
+        "tickets": "https://www.spokanecomedyclub.com/events/100620"
+    },
+        {
+        "id": 62,
+        "date": "September 27, 2024",
+        "time": "7:00pm",
+        "venue": "Spokane Comedy Club",
+        "city": "Spokane, WA",
+        "tickets": "https://www.spokanecomedyclub.com/events/100620"
+    },
+            {
+        "id": 63,
+        "date": "September 27, 2024",
+        "time": "9:45pm",
+        "venue": "Spokane Comedy Club",
+        "city": "Spokane, WA",
+        "tickets": "https://www.spokanecomedyclub.com/events/100620"
+    },
+    {
+        "id": 64,
+        "date": "September 28, 2024",
+        "time": "7:00pm",
+        "venue": "Spokane Comedy Club",
+        "city": "Spokane, WA",
+        "tickets": "https://www.spokanecomedyclub.com/events/100620"
+    },
+    {
+        "id": 65,
+        "date": "September 28, 2024",
+        "time": "9:45pm",
+        "venue": "Spokane Comedy Club",
+        "city": "Spokane, WA",
+        "tickets": "https://www.spokanecomedyclub.com/events/100620"
+    },
+    {
+        "id": 66,
         "date": "September 29, 2024",
         "time": "6:00pm",
         "venue": "Four Horsemen Brewery",
         "city": "Kent, WA",
-        "tickets": "#"
+        "tickets": "https://fourhorsemen.beer/shop/ols/products/scott-losse"
     }
 ]
