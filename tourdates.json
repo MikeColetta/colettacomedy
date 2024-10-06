@@ -1,106 +1,34 @@
 [ 
     {
-        "id": 54,
-        "date": "September 6, 2024",
-        "time": "8:00pm",
-        "venue": "Don't Tell",
-        "city": "Seattle, WA",
-        "tickets": "https://www.donttellcomedy.com/shows/seattle-09-06-24/"
-    },
-    {
-        "id": 55,
-        "date": "September 6, 2024",
+        "id": 67,
+        "date": "October 4, 2024",
         "time": "11:59pm",
         "venue": "Atlas Theater",
         "city": "Seattle, WA",
-        "tickets": "https://www.eventbrite.com/e/seattle-super-secret-standup-show-sept-2024-tickets-978459788567?aff=erelexpmlt"
-    },
-    {
-        "id": 56,
-        "date": "September 7, 2024",
-        "time": "3:00pm",
-        "venue": "Tacoma Comedy Club",
-        "city": "Tacoma, WA",
-        "tickets": "https://www.tacomacomedyclub.com/shows/272346"
-    },
-    {
-        "id": 57,
-        "date": "September 12, 2024",
-        "time": "7:00pm",
-        "venue": "Tacoma Comedy Club",
-        "city": "Tacoma, WA",
-        "tickets": "https://www.tacomacomedyclub.com/shows/262977"
-    },
-    {
-        "id": 58,
-        "date": "September 13, 2024",
-        "time": "7:00pm",
-        "venue": "Ohme Gardens",
-        "city": "Wenatchee, WA",
-        "tickets": "https://checkout.square.site/buy/NZE7SAVVQAGO76HJW7NKASCN"
-    },
-    {
-        "id": 59,
-        "date": "September 14, 2024",
-        "time": "8:00pm",
-        "venue": "Carco Theater",
-        "city": "Renton, WA",
-        "tickets": "https://www.eventbrite.com/e/comedy-at-carco-susan-rice-tickets-949424112077?aff=erelexpmlt"
-    },
-    {
-        "id": 60,
-        "date": "September 20, 2024",
-        "time": "8:00pm",
-        "venue": "Chalet Theater",
-        "city": "Enumclaw, WA",
         "tickets": "#"
     },
     {
-        "id": 61,
-        "date": "September 26, 2024",
-        "time": "7:00pm",
-        "venue": "Spokane Comedy Club",
-        "city": "Spokane, WA",
-        "tickets": "https://www.spokanecomedyclub.com/events/100620"
-    },
-        {
-        "id": 62,
-        "date": "September 27, 2024",
-        "time": "7:00pm",
-        "venue": "Spokane Comedy Club",
-        "city": "Spokane, WA",
-        "tickets": "https://www.spokanecomedyclub.com/events/100620"
-    },
-            {
-        "id": 63,
-        "date": "September 27, 2024",
-        "time": "9:45pm",
-        "venue": "Spokane Comedy Club",
-        "city": "Spokane, WA",
-        "tickets": "https://www.spokanecomedyclub.com/events/100620"
-    },
-    {
-        "id": 64,
-        "date": "September 28, 2024",
-        "time": "7:00pm",
-        "venue": "Spokane Comedy Club",
-        "city": "Spokane, WA",
-        "tickets": "https://www.spokanecomedyclub.com/events/100620"
-    },
-    {
-        "id": 65,
-        "date": "September 28, 2024",
-        "time": "9:45pm",
-        "venue": "Spokane Comedy Club",
-        "city": "Spokane, WA",
-        "tickets": "https://www.spokanecomedyclub.com/events/100620"
-    },
-    {
-        "id": 66,
-        "date": "September 29, 2024",
+        "id": 67,
+        "date": "October 5, 2024",
         "time": "6:00pm",
-        "venue": "Four Horsemen Brewery",
-        "city": "Kent, WA",
-        "tickets": "https://fourhorsemen.beer/shop/ols/products/scott-losse"
+        "venue": "Don't Tell",
+        "city": "Seattle, WA",
+        "tickets": "#"
+    },
+     {
+        "id": 68,
+        "date": "October 12, 2024",
+        "time": "8:00pm",
+        "venue": "Hopvine Pub",
+        "city": "Seattle, WA",
+        "tickets": "#"
+    },
+     {
+        "id": 68,
+        "date": "October 25, 2024",
+        "time": "8:00pm",
+        "venue": "The Lounge",
+        "city": "Arlington, WA",
+        "tickets": "#"
     }
 ]
