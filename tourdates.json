@@ -8,7 +8,7 @@
         "tickets": "#"
     },
     {
-        "id": 67,
+        "id": 68,
         "date": "October 5, 2024",
         "time": "6:00pm",
         "venue": "Don't Tell",
@@ -16,7 +16,7 @@
         "tickets": "#"
     },
      {
-        "id": 68,
+        "id": 69,
         "date": "October 12, 2024",
         "time": "8:00pm",
         "venue": "Hopvine Pub",
@@ -24,11 +24,19 @@
         "tickets": "#"
     },
      {
-        "id": 68,
+        "id": 70,
         "date": "October 25, 2024",
         "time": "8:00pm",
         "venue": "The Lounge",
         "city": "Arlington, WA",
+        "tickets": "#"
+    },
+    {
+        "id": 70,
+        "date": "November 3, 2024",
+        "time": "8:00pm",
+        "venue": "Comedy/Bar",
+        "city": "Seattle, WA",
         "tickets": "#"
     }
 ]
