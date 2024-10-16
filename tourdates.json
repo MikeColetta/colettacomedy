@@ -1,30 +1,14 @@
 [ 
-    {
-        "id": 67,
-        "date": "October 4, 2024",
-        "time": "11:59pm",
-        "venue": "Atlas Theater",
-        "city": "Seattle, WA",
-        "tickets": "#"
-    },
-    {
-        "id": 68,
-        "date": "October 5, 2024",
-        "time": "6:00pm",
-        "venue": "Don't Tell",
-        "city": "Seattle, WA",
-        "tickets": "#"
-    },
-     {
-        "id": 69,
-        "date": "October 12, 2024",
-        "time": "8:00pm",
-        "venue": "Hopvine Pub",
-        "city": "Seattle, WA",
-        "tickets": "#"
-    },
      {
         "id": 70,
+        "date": "October 12, 2024",
+        "time": "8:00pm",
+        "venue": "Teuton Brewing",
+        "city": "Oak Harbor, WA",
+        "tickets": "https://www.facebook.com/events/997904462083530/?ti=ls"
+    },
+     {
+        "id": 71,
         "date": "October 25, 2024",
         "time": "8:00pm",
         "venue": "The Lounge",
@@ -32,11 +16,59 @@
         "tickets": "#"
     },
     {
-        "id": 70,
+        "id": 72,
         "date": "November 3, 2024",
         "time": "8:00pm",
         "venue": "Comedy/Bar",
         "city": "Seattle, WA",
         "tickets": "#"
+    },
+    {
+        "id": 73,
+        "date": "November 12, 2024",
+        "time": "8:00pm",
+        "venue": "Tacoma Comedy Club",
+        "city": "Tacoma, WA",
+        "tickets": "#"
+    },
+     {
+        "id": 74,
+        "date": "November 22, 2024",
+        "time": "7:30pm",
+        "venue": "Tacoma Comedy Club - 6th and Proctor",
+        "city": "Tacoma, WA",
+        "tickets": "https://www.tacomacomedyclub.com/shows/270322"
+    },
+    {
+        "id": 75,
+        "date": "November 22, 2024",
+        "time": "9:45pm",
+        "venue": "Tacoma Comedy Club - 6th and Proctor",
+        "city": "Tacoma, WA",
+        "tickets": "https://www.tacomacomedyclub.com/shows/270325"
+    },
+     {
+        "id": 76,
+        "date": "November 23, 2024",
+        "time": "7:30pm",
+        "venue": "Tacoma Comedy Club - 6th and Proctor",
+        "city": "Tacoma, WA",
+        "tickets": "https://www.tacomacomedyclub.com/shows/270323"
+    },
+         {
+        "id": 77,
+        "date": "November 23, 2024",
+        "time": "9:45pm",
+        "venue": "Tacoma Comedy Club - 6th and Proctor",
+        "city": "Tacoma, WA",
+        "tickets": "https://www.tacomacomedyclub.com/shows/270326"
+    },
+    {
+        "id": 78,
+        "date": "November 24, 2024",
+        "time": "7:30pm",
+        "venue": "Tacoma Comedy Club - 6th and Proctor",
+        "city": "Tacoma, WA",
+        "tickets": "https://www.tacomacomedyclub.com/shows/270324"
     }
 ]
