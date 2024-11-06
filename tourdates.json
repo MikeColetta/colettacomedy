@@ -1,20 +1,4 @@
 [ 
-     {
-        "id": 70,
-        "date": "October 12, 2024",
-        "time": "8:00pm",
-        "venue": "Teuton Brewing",
-        "city": "Oak Harbor, WA",
-        "tickets": "https://www.facebook.com/events/997904462083530/?ti=ls"
-    },
-     {
-        "id": 71,
-        "date": "October 25, 2024",
-        "time": "8:00pm",
-        "venue": "The Lounge",
-        "city": "Arlington, WA",
-        "tickets": "#"
-    },
     {
         "id": 72,
         "date": "November 3, 2024",
@@ -33,6 +17,14 @@
     },
      {
         "id": 74,
+        "date": "November 13, 2024",
+        "time": "7:00pm",
+        "venue": "Vino Bella",
+        "city": "Issaquah, WA",
+        "tickets": "#"
+    },
+     {
+        "id": 75,
         "date": "November 22, 2024",
         "time": "7:30pm",
         "venue": "Tacoma Comedy Club - 6th and Proctor",
@@ -40,7 +32,7 @@
         "tickets": "https://www.tacomacomedyclub.com/shows/270322"
     },
     {
-        "id": 75,
+        "id": 76,
         "date": "November 22, 2024",
         "time": "9:45pm",
         "venue": "Tacoma Comedy Club - 6th and Proctor",
@@ -48,7 +40,7 @@
         "tickets": "https://www.tacomacomedyclub.com/shows/270325"
     },
      {
-        "id": 76,
+        "id": 77,
         "date": "November 23, 2024",
         "time": "7:30pm",
         "venue": "Tacoma Comedy Club - 6th and Proctor",
@@ -56,7 +48,7 @@
         "tickets": "https://www.tacomacomedyclub.com/shows/270323"
     },
          {
-        "id": 77,
+        "id": 78,
         "date": "November 23, 2024",
         "time": "9:45pm",
         "venue": "Tacoma Comedy Club - 6th and Proctor",
@@ -64,11 +56,19 @@
         "tickets": "https://www.tacomacomedyclub.com/shows/270326"
     },
     {
-        "id": 78,
+        "id": 79,
         "date": "November 24, 2024",
         "time": "7:30pm",
         "venue": "Tacoma Comedy Club - 6th and Proctor",
         "city": "Tacoma, WA",
         "tickets": "https://www.tacomacomedyclub.com/shows/270324"
+    },
+         {
+        "id": 80,
+        "date": "December 6, 2024",
+        "time": "8:00pm",
+        "venue": "The Cove",
+        "city": "Olympia, WA",
+        "tickets": "https://allevents.in/olympia/comedy-jam-2024-night-1-fri-dec-6th/80007811320756"
     }
 ]
