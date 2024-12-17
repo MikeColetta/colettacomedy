@@ -1,26 +1,42 @@
 [ 
     {
-        "id": 79,
+        "id": 81,
         "date": "December 21, 2024",
         "time": "8:00pm",
         "venue": "Liberty Theater",
         "city": "Astoria, OR",
         "tickets": "https://libertyastoria.showare.com/eventperformances.asp?evt=291"
     },
-         {
-        "id": 80,
+    {
+        "id": 82,
         "date": "January 1, 2024",
         "time": "7:00pm",
         "venue": "Tacoma Comedy Club",
         "city": "Tacoma, WA",
         "tickets": "https://www.tacomacomedyclub.com/shows/293000"
     },
-     {
-        "id": 80,
+    {
+        "id": 83,
         "date": "January 3, 2024",
         "time": "8:00pm",
         "venue": "Everett Improv ",
         "city": "Everett, WA",
         "tickets": "https://www.everettimprov.com/"
+    },
+    {
+        "id": 84,
+        "date": "January 16, 2024",
+        "time": "8:00pm",
+        "venue": "Side Hustle",
+        "city": "Kirkland, WA",
+        "tickets": "https://sidehustletaps.com/"
+    },
+    {
+        "id": 85,
+        "date": "January 24, 2024",
+        "time": "8:00pm",
+        "venue": "Watts Brewing",
+        "city": "Woodinville, WA",
+        "tickets": "https://wattsbrewingcompany.com/"
     }
 ]
