@@ -1,74 +1,26 @@
 [ 
     {
-        "id": 72,
-        "date": "November 3, 2024",
-        "time": "8:00pm",
-        "venue": "Comedy/Bar",
-        "city": "Seattle, WA",
-        "tickets": "#"
-    },
-    {
-        "id": 73,
-        "date": "November 12, 2024",
-        "time": "8:00pm",
-        "venue": "Tacoma Comedy Club",
-        "city": "Tacoma, WA",
-        "tickets": "#"
-    },
-     {
-        "id": 74,
-        "date": "November 13, 2024",
-        "time": "7:00pm",
-        "venue": "Vino Bella",
-        "city": "Issaquah, WA",
-        "tickets": "#"
-    },
-     {
-        "id": 75,
-        "date": "November 22, 2024",
-        "time": "7:30pm",
-        "venue": "Tacoma Comedy Club - 6th and Proctor",
-        "city": "Tacoma, WA",
-        "tickets": "https://www.tacomacomedyclub.com/shows/270322"
-    },
-    {
-        "id": 76,
-        "date": "November 22, 2024",
-        "time": "9:45pm",
-        "venue": "Tacoma Comedy Club - 6th and Proctor",
-        "city": "Tacoma, WA",
-        "tickets": "https://www.tacomacomedyclub.com/shows/270325"
-    },
-     {
-        "id": 77,
-        "date": "November 23, 2024",
-        "time": "7:30pm",
-        "venue": "Tacoma Comedy Club - 6th and Proctor",
-        "city": "Tacoma, WA",
-        "tickets": "https://www.tacomacomedyclub.com/shows/270323"
-    },
-         {
-        "id": 78,
-        "date": "November 23, 2024",
-        "time": "9:45pm",
-        "venue": "Tacoma Comedy Club - 6th and Proctor",
-        "city": "Tacoma, WA",
-        "tickets": "https://www.tacomacomedyclub.com/shows/270326"
-    },
-    {
         "id": 79,
-        "date": "November 24, 2024",
-        "time": "7:30pm",
-        "venue": "Tacoma Comedy Club - 6th and Proctor",
-        "city": "Tacoma, WA",
-        "tickets": "https://www.tacomacomedyclub.com/shows/270324"
+        "date": "December 21, 2024",
+        "time": "8:00pm",
+        "venue": "Liberty Theater",
+        "city": "Astoria, OR",
+        "tickets": "https://libertyastoria.showare.com/eventperformances.asp?evt=291"
     },
          {
         "id": 80,
-        "date": "December 6, 2024",
+        "date": "January 1, 2024",
+        "time": "7:00pm",
+        "venue": "Tacoma Comedy Club",
+        "city": "Tacoma, WA",
+        "tickets": "https://www.tacomacomedyclub.com/shows/293000"
+    },
+     {
+        "id": 80,
+        "date": "January 3, 2024",
         "time": "8:00pm",
-        "venue": "The Cove",
-        "city": "Olympia, WA",
-        "tickets": "https://allevents.in/olympia/comedy-jam-2024-night-1-fri-dec-6th/80007811320756"
+        "venue": "Everett Improv ",
+        "city": "Everett, WA",
+        "tickets": "https://www.everettimprov.com/"
     }
 ]
