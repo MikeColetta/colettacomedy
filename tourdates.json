@@ -1,13 +1,5 @@
 [ 
     {
-        "id": 81,
-        "date": "December 21, 2024",
-        "time": "8:00pm",
-        "venue": "Liberty Theater",
-        "city": "Astoria, OR",
-        "tickets": "https://libertyastoria.showare.com/eventperformances.asp?evt=291"
-    },
-    {
         "id": 82,
         "date": "January 1, 2024",
         "time": "7:00pm",
@@ -38,5 +30,13 @@
         "venue": "Watts Brewing",
         "city": "Woodinville, WA",
         "tickets": "https://wattsbrewingcompany.com/"
+    },
+    {
+        "id": 86,
+        "date": "February 7, 2024",
+        "time": "8:00pm",
+        "venue": "Chalet Theater",
+        "city": "Enumclaw, WA",
+        "tickets": "https://www.eventbrite.com/e/gabriel-rutledge-tickets-1110726917109?aff=oddtdtcreator"
     }
 ]
