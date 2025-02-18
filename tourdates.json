@@ -1,42 +1,26 @@
 [ 
     {
         "id": 82,
-        "date": "January 1, 2024",
-        "time": "7:00pm",
-        "venue": "Tacoma Comedy Club",
-        "city": "Tacoma, WA",
-        "tickets": "https://www.tacomacomedyclub.com/shows/293000"
+        "date": "February 22, 2025",
+        "time": "4:00pm",
+        "venue": "Spokane Comedy Club",
+        "city": "Spokane, WA",
+        "tickets": "https://www.spokanecomedyclub.com/shows/293800"
     },
     {
         "id": 83,
-        "date": "January 3, 2024",
-        "time": "8:00pm",
-        "venue": "Everett Improv ",
-        "city": "Everett, WA",
-        "tickets": "https://www.everettimprov.com/"
+        "date": "February 23, 2025",
+        "time": "6:00pm",
+        "venue": "Four Horsemen Brewery ",
+        "city": "Kent, WA",
+        "tickets": "https://fourhorsemen.beer/shop/ols/products/gates-open-wa-fundraiser/"
     },
     {
         "id": 84,
-        "date": "January 16, 2024",
+        "date": "February 27, 2025",
         "time": "8:00pm",
-        "venue": "Side Hustle",
-        "city": "Kirkland, WA",
-        "tickets": "https://sidehustletaps.com/"
-    },
-    {
-        "id": 85,
-        "date": "January 24, 2024",
-        "time": "8:00pm",
-        "venue": "Watts Brewing",
-        "city": "Woodinville, WA",
-        "tickets": "https://wattsbrewingcompany.com/"
-    },
-    {
-        "id": 86,
-        "date": "February 7, 2024",
-        "time": "8:00pm",
-        "venue": "Chalet Theater",
-        "city": "Enumclaw, WA",
-        "tickets": "https://www.eventbrite.com/e/gabriel-rutledge-tickets-1110726917109?aff=oddtdtcreator"
+        "venue": "Hook and Cleaver",
+        "city": "Mukilteo, WA",
+        "tickets": "https://www.hookandcleaver.com/store/p/comedy-night"
     }
 ]
