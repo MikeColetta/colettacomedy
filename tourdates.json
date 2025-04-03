@@ -1,26 +1,26 @@
 [ 
     {
         "id": 82,
-        "date": "March 6, 2025",
-        "time": "8:00pm",
-        "venue": "Outskirts Brewing",
-        "city": "Selah, WA",
-        "tickets": "#"
+        "date": "April 4, 2025",
+        "time": "11:59pm",
+        "venue": "Seattle Super Secret Standup Show - CZS ComedySportz",
+        "city": "Seattle, WA",
+        "tickets": "https://www.eventbrite.com/e/seattle-super-secret-standup-show-april-2025-tickets-1302278001559"
     },
     {
         "id": 83,
-        "date": "March 7, 2025",
+        "date": "April 5, 2025",
         "time": "8:00pm",
-        "venue": "Whistling Jacks",
-        "city": "Naches, WA",
-        "tickets": "#"
+        "venue": "Don't Tell",
+        "city": "Seattle, WA",
+        "tickets": "https://www.donttellcomedy.com/cities/seattle/"
     },
     {
         "id": 84,
-        "date": "March 8, 2025",
-        "time": "8:00pm",
-        "venue": "Flathead Lake Brewing",
-        "city": "Bigfork, MT",
-        "tickets": "#"
+        "date": "April 18, 2025",
+        "time": "7:00pm",
+        "venue": "Chainline Brewing Comapny",
+        "city": "Kirkland, WA",
+        "tickets": "https://chainlinebrewing.com/"
     }
 ]
