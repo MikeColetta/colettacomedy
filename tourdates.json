@@ -1,6 +1,14 @@
 [ 
     {
         "id": 85,
+        "date": "May 1, 2025",
+        "time": "7:00pm",
+        "venue": "Jocovine",
+        "city": "Bellevue, WA",
+        "tickets": "https://www.eventbrite.com/e/stand-up-comedy-with-scott-lo"
+    },
+    {
+        "id": 86,
         "date": "May 2, 2025",
         "time": "7:30pm",
         "venue": "Princess Theater",
@@ -8,7 +16,7 @@
         "tickets": "https://prosserprincess.ludus.com/index.php?show_id=200476633"
     },
     {
-        "id": 86,
+        "id": 87,
         "date": "May 9, 2025",
         "time": "7:00pm",
         "venue": "Alluvium Cellars",
@@ -16,7 +24,7 @@
         "tickets": "https://www.alluviumcellars.com/events"
     },
     {
-        "id": 87,
+        "id": 88,
         "date": "May 14, 2025",
         "time": "7:00pm",
         "venue": "425 Cellars",
@@ -24,7 +32,7 @@
         "tickets": "https://www.eventbrite.com/e/stand-up-comedy-with-scott-losse-425-cellars-tickets-1309222653199?aff=oddtdtcreator"
     },
     {
-        "id": 88,
+        "id": 89,
         "date": "May 22, 2025",
         "time": "7:00pm",
         "venue": "Side Hustle Brewing",
