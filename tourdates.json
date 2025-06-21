@@ -1,6 +1,30 @@
 [ 
     {
-        "id": 85,
+        "id": 01,
+        "date": "June 13",
+        "time": "8:00pm",
+        "venue": "Odd Fellows Hall",
+        "city": "Corvalis, OR",
+        "tickets": "#"
+    },
+    {
+        "id": 02,
+        "date": "June 14",
+        "time": "8:00pm",
+        "venue": "Slice",
+        "city": "Eugene, OR",
+        "tickets": "#"
+    },
+    {
+        "id": 03,
+        "date": "June 19",
+        "time": "7:30pm",
+        "venue": "Rabbit Box",
+        "city": "Seattle, OR",
+        "tickets": "#"
+    },
+    {
+        "id": 04,
         "date": "June 25",
         "time": "7:00pm",
         "venue": "5 Iron Golf",
