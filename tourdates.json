@@ -1,6 +1,6 @@
-[ 
+ [ 
     {
-        "id": 01,
+        "id": 1,
         "date": "June 13",
         "time": "8:00pm",
         "venue": "Odd Fellows Hall",
@@ -8,7 +8,7 @@
         "tickets": "#"
     },
     {
-        "id": 02,
+        "id": 2,
         "date": "June 14",
         "time": "8:00pm",
         "venue": "Slice",
@@ -16,7 +16,7 @@
         "tickets": "#"
     },
     {
-        "id": 03,
+        "id": 3,
         "date": "June 19",
         "time": "7:30pm",
         "venue": "Rabbit Box",
@@ -24,7 +24,7 @@
         "tickets": "#"
     },
     {
-        "id": 04,
+        "id": 4,
         "date": "June 25",
         "time": "7:00pm",
         "venue": "5 Iron Golf",
