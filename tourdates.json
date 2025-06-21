@@ -1,42 +1,10 @@
 [ 
     {
         "id": 85,
-        "date": "May 1, 2025",
+        "date": "June 25",
         "time": "7:00pm",
-        "venue": "Jocovine",
-        "city": "Bellevue, WA",
-        "tickets": "https://www.eventbrite.com/e/stand-up-comedy-with-scott-lo"
-    },
-    {
-        "id": 86,
-        "date": "May 2, 2025",
-        "time": "7:30pm",
-        "venue": "Princess Theater",
-        "city": "Prosser, WA",
-        "tickets": "https://prosserprincess.ludus.com/index.php?show_id=200476633"
-    },
-    {
-        "id": 87,
-        "date": "May 9, 2025",
-        "time": "7:00pm",
-        "venue": "Alluvium Cellars",
-        "city": "Woodinville, WA",
-        "tickets": "https://www.alluviumcellars.com/events"
-    },
-    {
-        "id": 88,
-        "date": "May 14, 2025",
-        "time": "7:00pm",
-        "venue": "425 Cellars",
-        "city": "Woodinville, WA",
-        "tickets": "https://www.eventbrite.com/e/stand-up-comedy-with-scott-losse-425-cellars-tickets-1309222653199?aff=oddtdtcreator"
-    },
-    {
-        "id": 89,
-        "date": "May 22, 2025",
-        "time": "7:00pm",
-        "venue": "Side Hustle Brewing",
+        "venue": "5 Iron Golf",
         "city": "Kirkland, WA",
-        "tickets": "#"
+        "tickets": "https://www.eventbrite.com/e/stand-up-comedy-with-scott-losse-5-iron-kirkland-tickets-1408020149169"
     }
 ]
