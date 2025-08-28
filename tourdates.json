@@ -30,5 +30,21 @@
         "venue": "Triple Door",
         "city": "Seattle, WA",
         "tickets": "https://tickets.thetripledoor.net/eventperformances.asp?evt=2167"
+    },
+    {
+        "id": 5,
+        "date": "October 3",
+        "time": "8:00pm",
+        "venue": "Ohme Gardens",
+        "city": "Wenatchee, WA",
+        "tickets": "#"
+    },
+    {
+        "id": 6,
+        "date": "October 5",
+        "time": "7:00pm",
+        "venue": "Tacoma Comedy Club - Downtown",
+        "city": "Tacoma, WA",
+        "tickets": "https://www.tacomacomedyclub.com/shows/322866"
     }
 ]
