@@ -1,34 +1,34 @@
  [ 
     {
         "id": 1,
-        "date": "June 13",
+        "date": "September 10",
         "time": "8:00pm",
-        "venue": "Odd Fellows Hall",
-        "city": "Corvalis, OR",
-        "tickets": "#"
+        "venue": "Bushel & Bee Taproom",
+        "city": "Leavenworth, WA",
+        "tickets": "https://checkout.square.site/merchant/80M94YNNKWPCG/checkout/KWIFA5K7S47CXYKTMXV4X2QA"
     },
     {
         "id": 2,
-        "date": "June 14",
+        "date": "September 12",
         "time": "8:00pm",
-        "venue": "Slice",
-        "city": "Eugene, OR",
-        "tickets": "#"
+        "venue": "Chalet Theater",
+        "city": "Enumclaw, WA",
+        "tickets": "https://www.eventbrite.com/e/comedy-jam-tickets-1478977474439?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl"
     },
     {
         "id": 3,
-        "date": "June 19",
-        "time": "7:30pm",
-        "venue": "Rabbit Box",
-        "city": "Seattle, WA",
-        "tickets": "#"
+        "date": "September 14",
+        "time": "6:00pm",
+        "venue": "Four Horsemen",
+        "city": "Kent, WA",
+        "tickets": "https://www.eventbrite.com/e/stand-up-comedy-with-mike-coletta-four-horsemen-brewery-tickets-1588449618569?aff=oddtdtcreator"
     },
     {
         "id": 4,
-        "date": "June 25",
-        "time": "7:00pm",
-        "venue": "5 Iron Golf",
-        "city": "Kirkland, WA",
-        "tickets": "https://www.eventbrite.com/e/stand-up-comedy-with-scott-losse-5-iron-kirkland-tickets-1408020149169"
+        "date": "September 17",
+        "time": "7:30pm",
+        "venue": "Triple Door",
+        "city": "Seattle, WA",
+        "tickets": "https://tickets.thetripledoor.net/eventperformances.asp?evt=2167"
     }
 ]
