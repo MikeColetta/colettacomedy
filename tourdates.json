@@ -31,8 +31,16 @@
         "city": "Seattle, WA",
         "tickets": "https://tickets.thetripledoor.net/eventperformances.asp?evt=2167"
     },
-    {
+  {
         "id": 5,
+        "date": "September 28",
+        "time": "7:00pm",
+        "venue": "Tacoma Comedy Club - 6th and Proctor",
+        "city": "Tacoma, WA",
+        "tickets": "https://www.tacomacomedyclub.com/shows/328224"
+    },
+    {
+        "id": 6,
         "date": "October 3",
         "time": "8:00pm",
         "venue": "Ohme Gardens",
@@ -40,7 +48,7 @@
         "tickets": "#"
     },
     {
-        "id": 6,
+        "id": 7,
         "date": "October 5",
         "time": "7:00pm",
         "venue": "Tacoma Comedy Club - Downtown",
