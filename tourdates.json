@@ -1,51 +1,11 @@
- [ 
-    {
-        "id": 1,
-        "date": "September 10",
-        "time": "8:00pm",
-        "venue": "Bushel & Bee Taproom",
-        "city": "Leavenworth, WA",
-        "tickets": "https://checkout.square.site/merchant/80M94YNNKWPCG/checkout/KWIFA5K7S47CXYKTMXV4X2QA"
-    },
-    {
-        "id": 2,
-        "date": "September 12",
-        "time": "8:00pm",
-        "venue": "Chalet Theater",
-        "city": "Enumclaw, WA",
-        "tickets": "https://www.eventbrite.com/e/comedy-jam-tickets-1478977474439?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl"
-    },
-    {
-        "id": 3,
-        "date": "September 14",
-        "time": "6:00pm",
-        "venue": "Four Horsemen",
-        "city": "Kent, WA",
-        "tickets": "https://www.eventbrite.com/e/stand-up-comedy-with-mike-coletta-four-horsemen-brewery-tickets-1588449618569?aff=oddtdtcreator"
-    },
-    {
-        "id": 4,
-        "date": "September 17",
+ [
+     {
+        "id": 11,
+        "date": "October 1",
         "time": "7:30pm",
-        "venue": "Triple Door",
-        "city": "Seattle, WA",
-        "tickets": "https://tickets.thetripledoor.net/eventperformances.asp?evt=2167"
-    },
-  {
-        "id": 5,
-        "date": "September 21",
-        "time": "7:00pm",
-        "venue": "Tacoma Comedy Club - Downtown",
-        "city": "Tacoma, WA",
-        "tickets": "https://www.tacomacomedyclub.com/shows/321911"
-    },
-  {
-        "id": 6,
-        "date": "September 28",
-        "time": "7:00pm",
-        "venue": "Tacoma Comedy Club - 6th and Proctor",
-        "city": "Tacoma, WA",
-        "tickets": "https://www.tacomacomedyclub.com/shows/328224"
+        "venue": "APEX Everett",
+        "city": "Everett, WA",
+        "thttps://www.eventbrite.com/e/laugh-track-live-tickets-1736182642019?aff=ebdsoporgprofile"
     },
     {
         "id": 7,
@@ -62,5 +22,37 @@
         "venue": "Tacoma Comedy Club - Downtown",
         "city": "Tacoma, WA",
         "tickets": "https://www.tacomacomedyclub.com/shows/322866"
+    },
+    {
+        "id": 9,
+        "date": "October 8",
+        "time": "7:30pm",
+        "venue": "APEX Everett",
+        "city": "Everett, WA",
+        "thttps://www.eventbrite.com/e/laugh-track-live-tickets-1736182642019?aff=ebdsoporgprofile"
+    },
+    {
+        "id": 10,
+        "date": "October 17",
+        "time": "7:00pm",
+        "venue": "Watt's Brewing",
+        "city": "Woodinville, WA",
+        "thttps://www.eventbrite.com/e/stand-up-comedy-with-scott-losse-watts-brewing-company-tickets-1754811361019?aff=oddtdtcreator"
+    },
+    {
+        "id": 12,
+        "date": "October 24",
+        "time": "7:00pm",
+        "venue": "Sama Cellars",
+        "city": "Redmond, WA",
+        "https://www.eventbrite.com/e/stand-up-comedy-with-mike-coletta-sama-cellars-tickets-1770865589649?aff=oddtdtcreator"
+    },
+    {
+        "id": 12,
+        "date": "October 28",
+        "time": "7:00pm",
+        "venue": "Chainline Brewing",
+        "city": "Redmond, WA",
+        "#"
     }
 ]
