@@ -5,7 +5,7 @@
         "time": "7:30pm",
         "venue": "APEX Everett",
         "city": "Everett, WA",
-        "thttps://www.eventbrite.com/e/laugh-track-live-tickets-1736182642019?aff=ebdsoporgprofile"
+        "#"
     },
     {
         "id": 7,
@@ -48,7 +48,7 @@
         "https://www.eventbrite.com/e/stand-up-comedy-with-mike-coletta-sama-cellars-tickets-1770865589649?aff=oddtdtcreator"
     },
     {
-        "id": 12,
+        "id": 13,
         "date": "October 28",
         "time": "7:00pm",
         "venue": "Chainline Brewing",
