@@ -21,7 +21,7 @@
         "time": "7:00pm",
         "venue": "Tacoma Comedy Club - Downtown",
         "city": "Tacoma, WA",
-        "tickets": "https://www.tacomacomedyclub.com/shows/322866"
+        "tickets":"#"
     },
     {
         "id": 9,
@@ -29,7 +29,7 @@
         "time": "7:30pm",
         "venue": "APEX Everett",
         "city": "Everett, WA",
-        "thttps://www.eventbrite.com/e/laugh-track-live-tickets-1736182642019?aff=ebdsoporgprofile"
+        "tickets":"#"
     },
     {
         "id": 10,
@@ -37,7 +37,7 @@
         "time": "7:00pm",
         "venue": "Watt's Brewing",
         "city": "Woodinville, WA",
-        "thttps://www.eventbrite.com/e/stand-up-comedy-with-scott-losse-watts-brewing-company-tickets-1754811361019?aff=oddtdtcreator"
+        "tickets":"#"
     },
     {
         "id": 12,
@@ -45,7 +45,7 @@
         "time": "7:00pm",
         "venue": "Sama Cellars",
         "city": "Redmond, WA",
-        "https://www.eventbrite.com/e/stand-up-comedy-with-mike-coletta-sama-cellars-tickets-1770865589649?aff=oddtdtcreator"
+        "tickets":"#"
     },
     {
         "id": 13,
