@@ -78,5 +78,13 @@
         "venue": "Bob's Java Jive",
         "city": "Tacoma, WA",
         "tickets":"#"
+    },
+    {
+        "id": 1
+        "date": "November 26",
+        "time": "7:00pm",
+        "venue": "Tacoma Comedy Club Dowwntown",
+        "city": "Tacoma, WA",
+        "tickets":"https://www.tacomacomedyclub.com/shows/339688"
     }
 ]
