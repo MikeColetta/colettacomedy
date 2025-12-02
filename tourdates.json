@@ -14,5 +14,13 @@
         "venue": "Carco Theater",
         "city": "Renton, WA",
         "tickets":"https://www.eventbrite.com/e/comedy-at-carco-gabriel-rutledge-live-tickets-1696212038869"
+    },
+    {
+        "id": 19,
+        "date": "December 12",
+        "time": "7:00pm",
+        "venue": "Maryhill Winery",
+        "city": "Woodinville, WA",
+        "tickets":"https://www.eventbrite.com/e/stand-up-comedy-with-scott-losse-maryhill-winery-tickets-1972896248789?aff=oddtdtcreator"
     }
 ]
