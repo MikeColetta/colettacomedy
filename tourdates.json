@@ -1,90 +1,18 @@
  [
      {
-        "id": 11,
-        "date": "October 1",
-        "time": "7:30pm",
-        "venue": "APEX Everett",
-        "city": "Everett, WA",
-        "tickets":"#"
-    },
-    {
-        "id": 7,
-        "date": "October 3",
-        "time": "8:00pm",
-        "venue": "Ohme Gardens",
-        "city": "Wenatchee, WA",
-        "tickets": "#"
-    },
-    {
-        "id": 8,
-        "date": "October 5",
+        "id": 18,
+        "date": "December 5",
         "time": "7:00pm",
-        "venue": "Tacoma Comedy Club - Downtown",
-        "city": "Tacoma, WA",
-        "tickets":"#"
+        "venue": "Lynwood Theatre",
+        "city": "Bainbridge Island, WA",
+        "tickets":"https://www.eventbrite.com/e/comedy-on-bainbridge-gabriel-rutledge-live-tickets-1754986986319"
     },
     {
-        "id": 9,
-        "date": "October 8",
-        "time": "7:30pm",
-        "venue": "APEX Everett",
-        "city": "Everett, WA",
-        "tickets":"#"
-    },
-    {
-        "id": 10,
-        "date": "October 17",
+        "id": 19,
+        "date": "December 6",
         "time": "7:00pm",
-        "venue": "Watt's Brewing",
-        "city": "Woodinville, WA",
-        "tickets":"#"
-    },
-    {
-        "id": 12,
-        "date": "October 24",
-        "time": "7:00pm",
-        "venue": "Sama Cellars",
-        "city": "Redmond, WA",
-        "tickets":"#"
-    },
-    {
-        "id": 13,
-        "date": "October 28",
-        "time": "7:00pm",
-        "venue": "Chainline Brewing",
-        "city": "Redmond, WA",
-        "tickets":"#"
-    },
-    {
-        "id": 14,
-        "date": "November 7",
-        "time": "7:30pm",
-        "venue": "Ricardo's",
-        "city": "Lacey, WA",
-        "tickets":"#"
-    },
-    {
-        "id": 15,
-        "date": "November 8",
-        "time": "7:30pm",
-        "venue": "Rabbit Box",
-        "city": "Seattle, WA",
-        "tickets":"#"
-    },
-    {
-        "id": 16,
-        "date": "November 15",
-        "time": "7:00pm",
-        "venue": "Bob's Java Jive",
-        "city": "Tacoma, WA",
-        "tickets":"#"
-    },
-    {
-        "id": 17,
-        "date": "November 26",
-        "time": "7:00pm",
-        "venue": "Tacoma Comedy Club Dowwntown",
-        "city": "Tacoma, WA",
-        "tickets":"https://www.tacomacomedyclub.com/shows/339688"
+        "venue": "Carco Theater",
+        "city": "Renton, WA",
+        "tickets":"https://www.eventbrite.com/e/comedy-at-carco-gabriel-rutledge-live-tickets-1696212038869"
     }
 ]
