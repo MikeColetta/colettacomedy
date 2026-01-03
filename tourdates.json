@@ -1,26 +1,26 @@
  [
      {
-        "id": 18,
-        "date": "December 5",
-        "time": "7:00pm",
-        "venue": "Lynwood Theatre",
+        "id": 01,
+        "date": "January 2",
+        "time": "9:30pm",
+        "venue": "Laughs",
+        "city": "Seattle, WA",
+        "tickets":"https://laughscomedyclub.com/ticket/comedy-show-sean-jordan-featuring-luke-severeid-on-jan-2nd-and-3rd/"
+    },
+    {
+        "id": 02,
+        "date": "January 10",
+        "time": "9:00pm",
+        "venue": "The Redwood Theater at Tracyton Movie House",
         "city": "Bainbridge Island, WA",
-        "tickets":"https://www.eventbrite.com/e/comedy-on-bainbridge-gabriel-rutledge-live-tickets-1754986986319"
+        "tickets":"https://tickets.venuepilot.com/e/live-comedy-w-scott-losse-2026-01-10-the-redwood-theater-at-tracyton-movie-house-bremerton-3d299e"
     },
     {
-        "id": 19,
-        "date": "December 6",
-        "time": "7:00pm",
-        "venue": "Carco Theater",
-        "city": "Renton, WA",
-        "tickets":"https://www.eventbrite.com/e/comedy-at-carco-gabriel-rutledge-live-tickets-1696212038869"
-    },
-    {
-        "id": 19,
-        "date": "December 12",
-        "time": "7:00pm",
-        "venue": "Maryhill Winery",
-        "city": "Woodinville, WA",
-        "tickets":"https://www.eventbrite.com/e/stand-up-comedy-with-scott-losse-maryhill-winery-tickets-1972896248789?aff=oddtdtcreator"
+        "id": 03,
+        "date": "January 16",
+        "time": "8:00pm",
+        "venue": "Stemma Brewing",
+        "city": "Bellingham, WA",
+        "tickets":"https://shop.stemmabrewing.com/product/scott-losse-comedy-show/SUJPUPZJKJEKU4ULOEYAWDSP"
     }
 ]
