@@ -1,26 +1,106 @@
  [
      {
-        "id": "1",
-        "date": "January 2",
-        "time": "9:30pm",
-        "venue": "Laughs",
+        "id": "4",
+        "date": "February 5",
+        "time": "7:30pm",
+        "venue": "Emerald City Comedy Club",
         "city": "Seattle, WA",
-        "tickets":"https://laughscomedyclub.com/ticket/comedy-show-sean-jordan-featuring-luke-severeid-on-jan-2nd-and-3rd/"
+        "tickets":"https://www.emeraldcitycomedy.com/events/127812"
     },
     {
-        "id": "2",
-        "date": "January 10",
-        "time": "9:00pm",
-        "venue": "The Redwood Theater at Tracyton Movie House",
-        "city": "Bainbridge Island, WA",
-        "tickets":"https://tickets.venuepilot.com/e/live-comedy-w-scott-losse-2026-01-10-the-redwood-theater-at-tracyton-movie-house-bremerton-3d299e"
+        "id": "5",
+        "date": "February 6",
+        "time": "7:30pm",
+        "venue": "Emerald City Comedy Club",
+        "city": "Seattle, WA",
+        "tickets":"https://www.emeraldcitycomedy.com/events/127812"
     },
     {
-        "id": "3",
-        "date": "January 16",
-        "time": "8:00pm",
-        "venue": "Stemma Brewing",
-        "city": "Bellingham, WA",
-        "tickets":"https://shop.stemmabrewing.com/product/scott-losse-comedy-show/SUJPUPZJKJEKU4ULOEYAWDSP"
+        "id": "6",
+        "date": "February 6",
+        "time": "9:30pm",
+        "venue": "Emerald City Comedy Club",
+        "city": "Seattle, WA",
+        "tickets":"https://www.emeraldcitycomedy.com/events/127812"
+    },
+    {
+        "id": "7",
+        "date": "February 6",
+        "time": "7:30pm",
+        "venue": "Emerald City Comedy Club",
+        "city": "Seattle, WA",
+        "tickets":"https://www.emeraldcitycomedy.com/events/127812"
+    },
+    {
+        "id": "8",
+        "date": "February 6",
+        "time": "9:30pm",
+        "venue": "Emerald City Comedy Club",
+        "city": "Seattle, WA",
+        "tickets":"https://www.emeraldcitycomedy.com/events/127812"
+    },
+    {
+        "id": "9",
+        "date": "February 11",
+        "time": "7:30pm",
+        "venue": "Tin Room",
+        "city": "Burien, WA",
+        "tickets":"#"
+    },
+    {
+        "id": "10",
+        "date": "February 12",
+        "time": "7:00pm",
+        "venue": "Maltby Pizza",
+        "city": "Maltby, WA",
+        "tickets":"#"
+    },
+    {
+        "id": "11",
+        "date": "February 20",
+        "time": "7:00pm",
+        "venue": "Quilcene Lantern",
+        "city": "Quilcene, WA",
+        "tickets":"https://btt.boldtypetickets.com/events/179329500/laughs-at-the-lantern-standup-comedy-w-scott-losse"
+    },
+    {
+        "id": "12",
+        "date": "February 26",
+        "time": "7:30pm",
+        "venue": "Tacoma Comedy Club 6th and Proctor",
+        "city": "Seattle, WA",
+        "tickets":"https://www.tacomacomedyclub.com/events/110412"
+    },
+    {
+        "id": "13",
+        "date": "February 27",
+        "time": "7:30pm",
+        "venue": "Tacoma Comedy Club 6th and Proctor",
+        "city": "Seattle, WA",
+        "tickets":"https://www.tacomacomedyclub.com/events/110412"
+    },
+    {
+        "id": "14",
+        "date": "February 27",
+        "time": "9:45pm",
+        "venue": "Tacoma Comedy Club 6th and Proctor",
+        "city": "Seattle, WA",
+        "tickets":"https://www.tacomacomedyclub.com/events/110412"
+    },
+    {
+        "id": "15",
+        "date": "February 28",
+        "time": "7:30pm",
+        "venue": "Tacoma Comedy Club 6th and Proctor",
+        "city": "Seattle, WA",
+        "tickets":"https://www.tacomacomedyclub.com/events/110412"
+    },
+    {
+        "id": "16",
+        "date": "February 28",
+        "time": "9:30pm",
+        "venue": "Tacoma Comedy Club 6th and Proctor",
+        "city": "Seattle, WA",
+        "tickets":"https://www.tacomacomedyclub.com/events/110412"
     }
 ]
