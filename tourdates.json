@@ -1,106 +1,42 @@
  [
      {
-        "id": "4",
-        "date": "February 5",
-        "time": "7:30pm",
-        "venue": "Emerald City Comedy Club",
+        "id": "17",
+        "date": "March 5",
+        "time": "8:00pm",
+        "venue": "Emerald City Comic Con",
         "city": "Seattle, WA",
-        "tickets":"https://www.emeraldcitycomedy.com/events/127812"
-    },
-    {
-        "id": "5",
-        "date": "February 6",
-        "time": "7:30pm",
-        "venue": "Emerald City Comedy Club",
-        "city": "Seattle, WA",
-        "tickets":"https://www.emeraldcitycomedy.com/events/127812"
-    },
-    {
-        "id": "6",
-        "date": "February 6",
-        "time": "9:30pm",
-        "venue": "Emerald City Comedy Club",
-        "city": "Seattle, WA",
-        "tickets":"https://www.emeraldcitycomedy.com/events/127812"
-    },
-    {
-        "id": "7",
-        "date": "February 7",
-        "time": "7:30pm",
-        "venue": "Emerald City Comedy Club",
-        "city": "Seattle, WA",
-        "tickets":"https://www.emeraldcitycomedy.com/events/127812"
-    },
-    {
-        "id": "8",
-        "date": "February 7",
-        "time": "9:30pm",
-        "venue": "Emerald City Comedy Club",
-        "city": "Seattle, WA",
-        "tickets":"https://www.emeraldcitycomedy.com/events/127812"
-    },
-    {
-        "id": "9",
-        "date": "February 11",
-        "time": "7:30pm",
-        "venue": "Tin Room",
-        "city": "Burien, WA",
         "tickets":"#"
     },
     {
-        "id": "10",
-        "date": "February 12",
+        "id": "18",
+        "date": "March 20",
         "time": "7:00pm",
-        "venue": "Maltby Pizza",
-        "city": "Maltby, WA",
-        "tickets":"#"
+        "venue": "Timberwolf Pub",
+        "city": "Snoqualmie Pass, WA",
+        "tickets":"https://www.summitatsnoqualmie.com/events/comedy-shows"
     },
     {
-        "id": "11",
-        "date": "February 20",
+        "id": "19",
+        "date": "March 21",
         "time": "7:00pm",
-        "venue": "Quilcene Lantern",
-        "city": "Quilcene, WA",
-        "tickets":"https://btt.boldtypetickets.com/events/179329500/laughs-at-the-lantern-standup-comedy-w-scott-losse"
+        "venue": "Post Doc Brewery",
+        "city": "Redmond, WA",
+        "tickets":"https://www.eventbrite.com/e/stand-up-comedy-with-mike-coletta-postdoc-redmond-tickets-1984412650657?aff=oddtdtcreator"
     },
     {
-        "id": "12",
-        "date": "February 26",
-        "time": "7:30pm",
-        "venue": "Tacoma Comedy Club 6th and Proctor",
-        "city": "Seattle, WA",
-        "tickets":"https://www.tacomacomedyclub.com/events/110412"
+        "id": "20",
+        "date": "March 27",
+        "time": "7:00pm",
+        "venue": "SAMA Cellars",
+        "city": "Redmond, WA",
+        "tickets":"https://samacellars.com/events/stand-up-comedy-with-scott-losse-and-mike-coletta/"
     },
     {
-        "id": "13",
-        "date": "February 27",
-        "time": "7:30pm",
-        "venue": "Tacoma Comedy Club 6th and Proctor",
-        "city": "Seattle, WA",
-        "tickets":"https://www.tacomacomedyclub.com/events/110412"
-    },
-    {
-        "id": "14",
-        "date": "February 27",
-        "time": "9:45pm",
-        "venue": "Tacoma Comedy Club 6th and Proctor",
-        "city": "Seattle, WA",
-        "tickets":"https://www.tacomacomedyclub.com/events/110412"
-    },
-    {
-        "id": "15",
-        "date": "February 28",
-        "time": "7:30pm",
-        "venue": "Tacoma Comedy Club 6th and Proctor",
-        "city": "Seattle, WA",
-        "tickets":"https://www.tacomacomedyclub.com/events/110412"
-    },
-    {
-        "id": "16",
-        "date": "February 28",
-        "time": "9:30pm",
-        "venue": "Tacoma Comedy Club 6th and Proctor",
-        "city": "Seattle, WA",
-        "tickets":"https://www.tacomacomedyclub.com/events/110412"
+        "id": "21",
+        "date": "March 28",
+        "time": "4:00pm",
+        "venue": "Tacoma Comedy Club - 6th and Proctor",
+        "city": "Tacoma, WA",
+        "tickets":"https://www.tacomacomedyclub.com/shows/348666"
     }
 ]
