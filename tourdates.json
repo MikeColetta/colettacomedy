@@ -1,34 +1,58 @@
  [
      {
-        "id": "22",
-        "date": "June 11",
-        "time": "7:00pm",
-        "venue": "JM Cellars",
-        "city": "Maltby, WA",
-        "tickets":"#"
+        "id": "26",
+        "date": "August 1",
+        "time": "4:00pm",
+        "venue": "Cornercopia Comedy Club",
+        "city": "Chehalis, WA",
+        "tickets":"https://www.eventbrite.com/e/the-dope-show-tickets-1991934458587?aff=oddtdtcreator"
     },
     {
-        "id": "23",
-        "date": "June 12",
-        "time": "7:00pm",
-        "venue": "Michael Florentino Cellars (SODO)",
+        "id": "27",
+        "date": "August 1",
+        "time": "8:30pm",
+        "venue": "Cornercopia Comedy Club",
+        "city": "Chehalis, WA",
+        "tickets":"https://www.eventbrite.com/e/tyler-smith-headlines-tickets-1991938375302?aff=oddtdtcreator"
+    },
+    {
+        "id": "28",
+        "date": "August 8",
+        "time": "7:30pm",
+        "venue": "The Sound Hotel",
         "city": "Seattle, WA",
-        "tickets":"https://www.eventbrite.com/e/stand-up-comedy-with-scott-losse-michael-florentino-cellars-sodo-tickets-1990139794699"
+        "tickets":"https://www.eventbrite.com/e/comedy-sam-miller-live-at-sound-hotel-tickets-1991245338410?aff=oddtdtcreator"
     },
     {
-        "id": "24",
-        "date": "June 25",
-        "time": "8:00pm",
-        "venue": "Hook & Cleaver",
-        "city": "Seattle, WA",
-        "tickets":"https://www.hookandcleaver.com/store/p/comedy-night-june25"
+        "id": "29",
+        "date": "August 14",
+        "time": "7:30pm",
+        "venue": "Tacoma Comedy Club -6th & Proctor",
+        "city": "Tacoma, WA",
+        "tickets":"https://www.tacomacomedyclub.com/shows/360631"
     },
     {
-        "id": "25",
-        "date": "July 18",
-        "time": "7:00pm",
-        "venue": "Chainline Brewing",
-        "city": "Kirkland, WA",
-        "tickets":"#"
+        "id": "30",
+        "date": "August 14",
+        "time": "9:45pm",
+        "venue": "Tacoma Comedy Club -6th & Proctor",
+        "city": "Tacoma, WA",
+        "tickets":"https://www.tacomacomedyclub.com/shows/360634"
+    },
+    {
+        "id": "31",
+        "date": "August 15",
+        "time": "7:30pm",
+        "venue": "Tacoma Comedy Club -6th & Proctor",
+        "city": "Tacoma, WA",
+        "tickets":"https://www.tacomacomedyclub.com/shows/360632"
+    },
+    {
+        "id": "32",
+        "date": "August 14",
+        "time": "9:45pm",
+        "venue": "Tacoma Comedy Club -6th & Proctor",
+        "city": "Tacoma, WA",
+        "tickets":"https://www.tacomacomedyclub.com/shows/360634"
     }
 ]
