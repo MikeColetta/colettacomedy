@@ -54,5 +54,29 @@
         "venue": "Tacoma Comedy Club -6th & Proctor",
         "city": "Tacoma, WA",
         "tickets":"https://www.tacomacomedyclub.com/shows/360634"
+    },
+    {
+        "id": "33",
+        "date": "August 27",
+        "time": "7:30pm",
+        "venue": "Numerica Performing Arts Center",
+        "city": "Wenatchee, WA",
+        "tickets":"https://tickets-center.com/tickets/1897721"
+    },
+    {
+        "id": "34",
+        "date": "August 28",
+        "time": "7:30pm",
+        "venue": "Numerica Performing Arts Center",
+        "city": "Wenatchee, WA",
+        "tickets":"https://tickets-center.com/tickets/1897720"
+    },
+    {
+        "id": "34",
+        "date": "August 28",
+        "time": "7:30pm",
+        "venue": "Numerica Performing Arts Center",
+        "city": "Wenatchee, WA",
+        "tickets":"https://tickets-center.com/tickets/1901097"
     }
 ]
