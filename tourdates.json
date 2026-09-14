@@ -1,82 +1,50 @@
  [
      {
-        "id": "26",
-        "date": "August 1",
-        "time": "4:00pm",
-        "venue": "Cornercopia Comedy Club",
-        "city": "Chehalis, WA",
-        "tickets":"https://www.eventbrite.com/e/the-dope-show-tickets-1991934458587?aff=oddtdtcreator"
-    },
-    {
-        "id": "27",
-        "date": "August 1",
-        "time": "8:30pm",
-        "venue": "Cornercopia Comedy Club",
-        "city": "Chehalis, WA",
-        "tickets":"https://www.eventbrite.com/e/tyler-smith-headlines-tickets-1991938375302?aff=oddtdtcreator"
-    },
-    {
-        "id": "28",
-        "date": "August 8",
-        "time": "7:30pm",
-        "venue": "The Sound Hotel",
+        "id": "36",
+        "date": "September 4",
+        "time": "7:00pm",
+        "venue": "PAX",
         "city": "Seattle, WA",
-        "tickets":"https://www.eventbrite.com/e/comedy-sam-miller-live-at-sound-hotel-tickets-1991245338410?aff=oddtdtcreator"
+        "tickets":"#"
     },
     {
-        "id": "29",
-        "date": "August 14",
-        "time": "7:30pm",
-        "venue": "Tacoma Comedy Club -6th & Proctor",
+        "id": "37",
+        "date": "September 17",
+        "time": "8:00pm",
+        "venue": "Hook and Cleaver",
+        "city": "Mukilteo, WA",
+        "tickets":"https://www.hookandcleaver.com/store/p/comedy-night-sept"
+    },
+    {
+        "id": "38",
+        "date": "September 18",
+        "time": "7:00pm",
+        "venue": "Maryhill Winery",
+        "city": "Woodinville, WA",
+        "tickets":"https://www.eventbrite.com/e/stand-up-comedy-with-scott-losse-feat-mike-coletta-maryhill-winery-tickets-1998601128777"
+    },
+    {
+        "id": "39",
+        "date": "September 19",
+        "time": "7:00pm",
+        "venue": "Evergreen Family Wines",
+        "city": "Woodinville, WA",
+        "tickets":"https://www.eventbrite.com/e/stand-up-comedy-with-mike-coletta-evergreen-family-wines-tickets-1999066860794?aff=erelpanelorg"
+    },
+    {
+        "id": "40",
+        "date": "September 25",
+        "time": "8:00pom",
+        "venue": "Bigfoot Brewfest",
+        "city": "Seabrook, WA",
+        "tickets":"https://www.seabrookwa.com/events/paid-admission/bigfoot-brewfest/"
+    },
+    {
+        "id": "41",
+        "date": "September 30",
+        "time": "7:00pm",
+        "venue": "Don't Tell",
         "city": "Tacoma, WA",
-        "tickets":"https://www.tacomacomedyclub.com/shows/360631"
-    },
-    {
-        "id": "30",
-        "date": "August 14",
-        "time": "9:45pm",
-        "venue": "Tacoma Comedy Club -6th & Proctor",
-        "city": "Tacoma, WA",
-        "tickets":"https://www.tacomacomedyclub.com/shows/360634"
-    },
-    {
-        "id": "31",
-        "date": "August 15",
-        "time": "7:30pm",
-        "venue": "Tacoma Comedy Club -6th & Proctor",
-        "city": "Tacoma, WA",
-        "tickets":"https://www.tacomacomedyclub.com/shows/360632"
-    },
-    {
-        "id": "32",
-        "date": "August 14",
-        "time": "9:45pm",
-        "venue": "Tacoma Comedy Club -6th & Proctor",
-        "city": "Tacoma, WA",
-        "tickets":"https://www.tacomacomedyclub.com/shows/360634"
-    },
-    {
-        "id": "33",
-        "date": "August 27",
-        "time": "7:30pm",
-        "venue": "Numerica Performing Arts Center",
-        "city": "Wenatchee, WA",
-        "tickets":"https://tickets-center.com/tickets/1897721"
-    },
-    {
-        "id": "34",
-        "date": "August 28",
-        "time": "7:30pm",
-        "venue": "Numerica Performing Arts Center",
-        "city": "Wenatchee, WA",
-        "tickets":"https://tickets-center.com/tickets/1897720"
-    },
-    {
-        "id": "35",
-        "date": "August 28",
-        "time": "7:30pm",
-        "venue": "Numerica Performing Arts Center",
-        "city": "Wenatchee, WA",
-        "tickets":"https://tickets-center.com/tickets/1901097"
+        "tickets":"#"
     }
 ]
