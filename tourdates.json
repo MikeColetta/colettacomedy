@@ -1,50 +1,42 @@
  [
      {
-        "id": "36",
-        "date": "September 4",
+        "id": "44",
+        "date": "October 3",
         "time": "7:00pm",
-        "venue": "PAX",
+        "venue": "Emerald City Comedy Club",
         "city": "Seattle, WA",
         "tickets":"#"
     },
     {
-        "id": "37",
-        "date": "September 17",
+        "id": "45",
+        "date": "October 9",
         "time": "8:00pm",
-        "venue": "Hook and Cleaver",
-        "city": "Mukilteo, WA",
-        "tickets":"https://www.hookandcleaver.com/store/p/comedy-night-sept"
-    },
-    {
-        "id": "38",
-        "date": "September 18",
-        "time": "7:00pm",
-        "venue": "Maryhill Winery",
-        "city": "Woodinville, WA",
-        "tickets":"https://www.eventbrite.com/e/stand-up-comedy-with-scott-losse-feat-mike-coletta-maryhill-winery-tickets-1998601128777"
-    },
-    {
-        "id": "39",
-        "date": "September 19",
-        "time": "7:00pm",
-        "venue": "Evergreen Family Wines",
-        "city": "Woodinville, WA",
-        "tickets":"https://www.eventbrite.com/e/stand-up-comedy-with-mike-coletta-evergreen-family-wines-tickets-1999066860794?aff=erelpanelorg"
-    },
-    {
-        "id": "40",
-        "date": "September 25",
-        "time": "8:00pom",
-        "venue": "Bigfoot Brewfest",
-        "city": "Seabrook, WA",
-        "tickets":"https://www.seabrookwa.com/events/paid-admission/bigfoot-brewfest/"
-    },
-    {
-        "id": "41",
-        "date": "September 30",
-        "time": "7:00pm",
-        "venue": "Don't Tell",
-        "city": "Tacoma, WA",
+        "venue": "Fierce County Cider",
+        "city": "Puyallup, WA",
         "tickets":"#"
+    },
+    {
+        "id": "46",
+        "date": "October 16",
+        "time": "7:00pm",
+        "venue": "Lux Coffee",
+        "city": "Tacoma, WA",
+        "tickets":"https://www.eventbrite.com/e/comedy-night-at-lux-coffee-october-16-tickets-2001671959715?utm_experiment=test_share_listing&aff=ebdsshios"
+    },
+    {
+        "id": "45",
+        "date": "October 17",
+        "time": "8:00pm",
+        "venue": "Ricardo's",
+        "city": "Lacey, WA",
+        "tickets":"https://allevents.in/lacey/comedy-jam-six-headliners-lacey-tickets/80002011795226"
+    },
+    {
+        "id": "46",
+        "date": "October 30",
+        "time": "7:00pm",
+        "venue": "Post Doc Brewing",
+        "city": "Redmond, WA",
+        "tickets":"https://www.eventbrite.com/e/2002596394725?aff=oddtdtcreator%3C/a%3E%3C/p%3E%3Cp%3E"
     }
 ]
