@@ -1,42 +1,42 @@
  [
      {
-        "id": "42",
-        "date": "October 4",
-        "time": "7:00pm",
-        "venue": "Emerald City Comedy Club",
-        "city": "Seattle, WA",
+        "id": "47",
+        "date": "November 7",
+        "time": "6:30pm",
+        "venue": "Remlinger Farms Brewery",
+        "city": "Carnation, WA",
         "tickets":"#"
     },
     {
-        "id": "43",
-        "date": "October 9",
-        "time": "8:00pm",
-        "venue": "Fierce County Cider",
-        "city": "Puyallup, WA",
-        "tickets":"#"
+        "id": "48",
+        "date": "November 13",
+        "time": "7:00pm",
+        "venue": "Michael Florentino Cellars",
+        "city": "Woodinville, WA",
+        "tickets":"https://www.eventbrite.com/e/stand-up-comedy-with-jr-berard-michael-florentino-cellars-gateway-tickets-2003937879141?aff=ebdsoporgprofile"
     },
     {
-        "id": "44",
-        "date": "October 16",
-        "time": "7:00pm",
-        "venue": "Lux Coffee",
+        "id": "49",
+        "date": "November 15",
+        "time": "6:00pm",
+        "venue": "Tacoma Comedy Club",
         "city": "Tacoma, WA",
-        "tickets":"https://www.eventbrite.com/e/comedy-night-at-lux-coffee-october-16-tickets-2001671959715?utm_experiment=test_share_listing&aff=ebdsshios"
+        "tickets":"https://www.tacomacomedyclub.com/shows/389181"
     },
     {
-        "id": "45",
-        "date": "October 17",
+        "id": "50",
+        "date": "November 19",
+        "time": "7:30pm",
+        "venue": "Add-A-Ball",
+        "city": "Seattle, WA",
+        "tickets":"https://www.eventbrite.com/e/laff-a-ball-standup-comedy-ft-mike-coletta-fremont-seattle-tickets-2004405778641?aff=erelpanelorg"
+    },
+    {
+        "id": "51",
+        "date": "November 21",
         "time": "8:00pm",
-        "venue": "Ricardo's",
-        "city": "Lacey, WA",
-        "tickets":"https://allevents.in/lacey/comedy-jam-six-headliners-lacey-tickets/80002011795226"
-    },
-    {
-        "id": "46",
-        "date": "October 30",
-        "time": "7:00pm",
-        "venue": "Post Doc Brewing",
-        "city": "Redmond, WA",
-        "tickets":"https://www.eventbrite.com/e/2002596394725?aff=oddtdtcreator%3C/a%3E%3C/p%3E%3Cp%3E"
+        "venue": "Chainline Brewing",
+        "city": "Kirkland, WA",
+        "tickets":"https://www.eventbrite.com/e/stand-up-comedy-with-mike-coletta-chainline-brewing-company-tickets-2004202714270?aff=ebdsoporgprofile"
     }
 ]
